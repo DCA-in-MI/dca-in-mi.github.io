@@ -1,12 +1,12 @@
 ---
-layout: default
+layout: template
 ---
 
 Text can be **bold**, _italic_, or ~~strikethrough~~.
 
-[Link to another page](./people.html).
-[Link to another page](./people.html).
-[Link to another page](./people.html).
+[Link to people page](./people.html).
+[Link to program page](./program.html).
+[Link to call_for_paper page](./call_for_paper.html).
 
 There should be whitespace between paragraphs.
 
