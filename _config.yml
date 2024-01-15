@@ -1,6 +1,6 @@
 title: Data Augmentation and Curation in Medical Imaging Workshop
-show_downloads: true
 theme: jekyll-theme-cayman
+show_downloads: false
 
 # Layout
 show_social: true

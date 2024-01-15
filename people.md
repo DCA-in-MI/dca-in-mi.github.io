@@ -1,13 +1,12 @@
 ---
-layout: default
+layout: template
 title: Another page
-description: This is just another page
+# description: 
 filename: people
 ---
 
-## Welcome to another page
+## Workshop Committee
 
-_yay_ People
 
 [back](./)
 
