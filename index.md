@@ -1,125 +1,68 @@
 ---
-layout: template
+layout: default
 ---
 
-Text can be **bold**, _italic_, or ~~strikethrough~~.
+# Links
 
-[Link to people page](./people.html).
-[Link to program page](./program.html).
-[Link to call_for_paper page](./call_for_paper.html).
+[Important Dates](./important_dates.html).
 
-There should be whitespace between paragraphs.
+[Call for Paper](./call_for_paper.html).
 
-There should be whitespace between paragraphs. We recommend including a README, or a file with information about your project.
+[People](./people.html).
 
-# Header 1
-
-This is a normal paragraph following a header. GitHub is a code hosting platform for version control and collaboration. It lets you and others work together on projects from anywhere.
-
-## Header 2
-
-> This is a blockquote following a header.
->
-> When something is important enough, you do it even if the odds are not in your favor.
-
-### Header 3
-
-```js
-// Javascript code with syntax highlighting.
-var fun = function lang(l) {
-  dateformat.i18n = require('./lang/' + l)
-  return true;
-}
-```
-
-```ruby
-# Ruby code with syntax highlighting
-GitHubPages::Dependencies.gems.each do |gem, version|
-  s.add_dependency(gem, "= #{version}")
-end
-```
-
-#### Header 4
-
-*   This is an unordered list following a header.
-*   This is an unordered list following a header.
-*   This is an unordered list following a header.
-
-##### Header 5
-
-1.  This is an ordered list following a header.
-2.  This is an ordered list following a header.
-3.  This is an ordered list following a header.
-
-###### Header 6
-
-| head1        | head two          | three |
-|:-------------|:------------------|:------|
-| ok           | good swedish fish | nice  |
-| out of stock | good and plenty   | nice  |
-| ok           | good `oreos`      | hmm   |
-| ok           | good `zoute` drop | yumm  |
-
-### There's a horizontal rule below this.
-
-* * *
-
-### Here is an unordered list:
-
-*   Item foo
-*   Item bar
-*   Item baz
-*   Item zip
-
-### And an ordered list:
-
-1.  Item one
-1.  Item two
-1.  Item three
-1.  Item four
-
-### And a nested list:
-
-- level 1 item
-  - level 2 item
-  - level 2 item
-    - level 3 item
-    - level 3 item
-- level 1 item
-  - level 2 item
-  - level 2 item
-  - level 2 item
-- level 1 item
-  - level 2 item
-  - level 2 item
-- level 1 item
-
-### Small image
-
-![Octocat](https://github.githubassets.com/images/icons/emoji/octocat.png)
-
-### Large image
-
-![Branching](https://guides.github.com/activities/hello-world/branching.png)
+[Program](./program.html).
 
 
-### Definition lists can be used with HTML syntax.
+# Recent Posts
 
-<dl>
-<dt>Name</dt>
-<dd>Godzilla</dd>
-<dt>Born</dt>
-<dd>1952</dd>
-<dt>Birthplace</dt>
-<dd>Japan</dd>
-<dt>Color</dt>
-<dd>Green</dd>
-</dl>
+### Overview:
 
-```
-Long, single-line code blocks should not wrap. They should horizontally scroll if they are too long. This line should be long enough to demonstrate this.
-```
+Medical imaging is a key component of modern healthcare, facilitating a wide array of diagnostic and therapeutic applications. Data-driven computer vision and  AI solutions for medical imaging thereby represent a great potential to make a real-life impact by improving patient care.
 
-```
-The final element.
-```
+However, safety requirements associated with healthcare pose major challenges for this research field, especially regarding data curation. Collection and annotation of medical data is often resource-intensive due to the need for medical expertise. At the same time, data quality is of the highest importance to ensure safe and fair usage in clinical settings. As a result, efficient data curation and validation as well as learning from small data are important areas of research. Synthetic data generation and augmentation are further promising directions, which themselves, however, pose challenges regarding quality, bias, and utility.
+
+In addressing these demands, data engineering emerges as a crucial driver in advancing medical imaging research into deployment. Nevertheless, it is challenging to fulfill all the needs of task-specific applications via traditional methods. To bridge the gap, this workshop aims to encourage the discussion on topics related to push forward the frontier of data curation and augmentation for medical applications to tackle the challenges of limited or imperfect data in the real-world medical application.
+
+### Scope:
+
+We invite topics related to medical imaging and medical computer vision which include but are not limited to:
+-Data selection and curation
+  - clinical data collection & analysis pipelines
+  - multi-modal and/or longitudinal data management & analysis
+  - data selection techniques
+  - data bias analysis
+  - annotation tools and strategies
+- Data synthesis and augmentation
+  - generative modeling
+  - neural rendering
+  - style transfer
+  - physics-based simulation
+  - sim2real gap
+  - label augmentation
+- Learning with data scarcity
+  - domain adaptation/generalization
+  - few-shot/zero-shot learning
+  - Semi-/self-/un-/weakly-supervised learning
+  - active learning
+  - multi-modal learning
+- Data verification and quality assessment
+  - noisy & incomplete data
+  - anonymization & privacy
+- Effects of Data Domain Representation on Clinical Outputs
+  - case studies of AI for rare diseases
+  - downstream impact of data bias in augmentation
+  - downstream impact of synthetic data
+- From Data to Results: Learning from Success
+  - showcasing data-centric solutions with clinical impact
+
+Data modalities include but are not limited to:
+* MRI / CT / US / Multi-spectral imaging
+* Microscopy / Pathology data
+* Clinical data
+* Surgical image/video data
+
+### Submission:
+
+Papers can be submitted via OpenReview until [_to be announced_]. Please prepare workshop submissions in the CVPR format (8 Pages excl. references) using the corresponding template. For supplementary material, CVPR rules apply as well.
+
+The submission should be anonymous and follow the CVPR conference format. A double-blind reviewing process is adhered to guarantee paper quality. In submitting a paper, authors implicitly acknowledge that no paper of substantially similar content has been or will be submitted to another conference or workshop until the decisions have been made by our workshop.

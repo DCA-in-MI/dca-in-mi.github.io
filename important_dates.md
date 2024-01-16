@@ -1,11 +1,11 @@
 ---
 title: Important Dates
-layout: template
+layout: default
 filename: important_dates
 ---
 
 # Important Dates
 
-To be announced
+**To be announced.**
 
 [back](./)

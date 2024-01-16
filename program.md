@@ -1,11 +1,11 @@
 ---
 title: Program
-layout: template
+layout: default
 filename: program
 ---
 
 ## Workshop Program
 
-To be announced.
+**To be announced.**
 
 [back](./)

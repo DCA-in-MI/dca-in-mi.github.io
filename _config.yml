@@ -1,11 +1,16 @@
 title: Data Augmentation and Curation in Medical Imaging Workshop
-theme: jekyll-theme-cayman
-show_downloads: false
+# theme: jekyll-theme-cayman
+remote_theme: Bilal2453/cayman-docs
 
 # Layout
 show_social: true
 show_excerpts: false
 show_sidebar: true
+
+# Menu
+navigation:
+  name_over_title: true
+
 
 # # Menu
 # navigation:
@@ -14,20 +19,20 @@ show_sidebar: true
 #   - {file: "/program.md", title: "Program", icon: address-card}
 
 
-menu:
-  nav:
-    - name: call_for_paper
-      url: ./call_for_paper.html
-      weight: 1
-    - name: important_dates
-      url: ./important_dates.md
-      weight: 2
-    - name: program
-      url: /program.html
-      weight: 3
-    - name: People
-      url: /people
-      weight: 4
+# menu:
+#   nav:
+#     - name: call_for_paper
+#       url: ./call_for_paper.html
+#       weight: 1
+#     - name: important_dates
+#       url: ./important_dates.md
+#       weight: 2
+#     - name: program
+#       url: /program.html
+#       weight: 3
+#     - name: People
+#       url: /people
+#       weight: 4
 
 # Build settings
 markdown: kramdown
