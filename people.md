@@ -1,7 +1,7 @@
 ---
 layout: default
-title: People
-# description: 
+title: DCA in MI Workshop
+description: Workshop committee
 filename: people
 ---
 

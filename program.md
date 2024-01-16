@@ -1,6 +1,7 @@
 ---
-title: Program
 layout: default
+title: DCA in MI Workshop
+description: Workshop program
 filename: program
 ---
 

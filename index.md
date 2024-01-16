@@ -2,18 +2,21 @@
 layout: default
 ---
 
-# Links
+# Menu
 
-[Important Dates](./important_dates.html).
+[Important Dates](./important_dates.html)
 
-[Call for Paper](./call_for_paper.html).
+[Call for Paper](./call_for_paper.html)
 
-[People](./people.html).
+[People](./people.html)
 
-[Program](./program.html).
+[Program](./program.html)
 
 
 # Recent Posts
+
+## Call for Paper is up now!
+### date: 01/16/2024
 
 ### Overview:
 
