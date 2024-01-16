@@ -1,5 +1,8 @@
 ---
 layout: default
+title: Data Curation and Augmentation in Medical Imaging
+description: DCA in MI Workshop @ CVPR 2024
+filename: index
 ---
 
 # Menu

@@ -5,6 +5,8 @@ description: Workshop committee
 filename: people
 ---
 
+[back](./)
+
 # Workshop Committee
 
 ## Shuoqi Chen

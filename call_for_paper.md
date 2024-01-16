@@ -5,6 +5,8 @@ description: Call for Paper
 filename: call_for_paper
 ---
 
+[back](./)
+
 # Call for Paper
 
 ## Overview:
