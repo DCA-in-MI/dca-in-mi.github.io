@@ -20,8 +20,7 @@ However, safety requirements associated with healthcare pose major challenges fo
 
 In addressing these demands, data engineering emerges as a crucial driver in advancing medical imaging research into deployment. Nevertheless, it is challenging to fulfill all the needs of task-specific applications via traditional methods. To bridge the gap, this workshop aims to encourage the discussion on topics related to push forward the frontier of data curation and augmentation for medical applications to tackle the challenges of limited or imperfect data in the real-world medical application.
 
-
-We are excited to provide a interactive work platform to host topics related to medical imaging and medical computer vision which include but are not limited to:
+We are excited to provide an interactive workshop platform to host topics related to medical imaging and medical computer vision, which include but are not limited to:
 
 - Data selection and curation
 - Data synthesis and augmentation
