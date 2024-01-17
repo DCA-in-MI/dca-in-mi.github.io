@@ -72,3 +72,5 @@ Data modalities include but are not limited to:
 Papers can be submitted via OpenReview until [_to be announced_]. Please prepare workshop submissions in the CVPR format (8 Pages excl. references) using the corresponding template. For supplementary material, CVPR rules apply as well.
 
 The submission should be anonymous and follow the CVPR conference format. A double-blind reviewing process is adhered to guarantee paper quality. In submitting a paper, authors implicitly acknowledge that no paper of substantially similar content has been or will be submitted to another conference or workshop until the decisions have been made by our workshop.
+
+
