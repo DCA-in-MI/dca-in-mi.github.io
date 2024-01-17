@@ -5,7 +5,7 @@ description: Workshop committee
 filename: people
 ---
 
-![Shuoqi](assets/img/Shuoqi_profile.png =50x50) ## Shuoqi Chen 
+![Shuoqi](assets/img/Shuoqi_profile.png) ## Shuoqi Chen 
 
 Shuoqi Chen is a Computer Vision Medical Imaging engineer at Intuitive Surgical, Inc., specializing in the intersection of advanced imaging technologies and robotic-assisted medical procedures. He earned his graduate degree from the Robotics Institute at Carnegie Mellon University, and has since worked on integrating advanced medical imaging modalities to clinical solutions for minimally invasive lung biopsies. Shuoqi is an active presenter and reviewer in a number of robotics and AI conference, including IEEE TRO, IROS, CVPR, and ICML.
 
@@ -29,7 +29,7 @@ Rohit Jena is a 3rd year Ph.D. student in Computer and Information Science at Un
 
 **Contact**: rjena@seas.upenn.edu
 
-![Octocat](assets/img/Wanwen_profile.png =50x50) ## Wanwen Chen
+![Octocat](assets/img/Wanwen_profile.png) ## Wanwen Chen
 
 Wanwen Chen is a PhD candidate in Electrical and Computer Engineering at the University of British
 Columbia, Canada, researching ultrasound imaging and augmented reality with Dr. Tim Salcudean. Her research focuses on classical and deep learning methods for ultrasound imaging and augmented reality for transoral robotic surgery, and her research is conducted in close collaboration with Vancouver General Hospital. She has been a reviewer in medical imaging and medical robotics conferences and workshops (ISMR, AE-CAI). She has various experience in event and conference organization (volunteer in MICCAI 2023, Vice President Academic in ECE Graduate Student Association at UBC,
