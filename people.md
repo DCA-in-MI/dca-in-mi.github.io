@@ -37,7 +37,7 @@ etc.).
 
 **Contact**: wanwenc@ece.ubc.ca
 
-## Dominik Rivoir ![Octocat](https://github.githubassets.com/images/icons/emoji/octocat.png)
+![Octocat](https://github.githubassets.com/images/icons/emoji/octocat.png) ## Dominik Rivoir 
 
 Dominik Rivoir is a 5th-year PhD student at the National Center for Tumor Diseases in Germany as well as the Centre for Tactile Internet of TU Dresden, Germany. His research includes unsupervised methods for neural rendering and data synthesis in surgical computer vision applications. He has actively contributed to both the main computer vision field as well as medical applications, having published at ICCV, MICCAI and IPCAI and being a regular reviewer at venues such as CVPR, ICCV, ECCV, MICCAI, MedIA, TMI or IPCAI
 
