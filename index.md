@@ -7,13 +7,13 @@ filename: index
 
 # Menu
 
-[Important Dates](./important_dates.html)
+<!-- [Important Dates](./important_dates.html)
 
 [Call for Paper](./call_for_paper.html)
 
 [People](./people.html)
 
-[Program](./program.html)
+[Program](./program.html) -->
 
 
 # Recent Posts
