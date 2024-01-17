@@ -5,10 +5,6 @@ description: Call for Paper
 filename: call_for_paper
 ---
 
-[back](./)
-
-# Call for Paper
-
 ## Overview:
 Medical imaging is a key component of modern healthcare, facilitating a wide array of diagnostic and therapeutic applications. Data-driven computer vision and  AI solutions for medical imaging thereby represent a great potential to make a real-life impact by improving patient care.
 

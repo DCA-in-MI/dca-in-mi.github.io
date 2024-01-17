@@ -5,23 +5,14 @@ description: DCA in MI Workshop @ CVPR 2024
 filename: index
 ---
 
-# Menu
-
-[Important Dates](./important_dates.html)
+<!-- [Important Dates](./important_dates.html)
 
 [Call for Paper](./call_for_paper.html)
 
 [People](./people.html)
 
-[Program](./program.html)
+[Program](./program.html) -->
 
-
-# Recent Posts
-
-## Call for Paper is up now!
-### date: 01/16/2024
-
-### Overview:
 
 Medical imaging is a key component of modern healthcare, facilitating a wide array of diagnostic and therapeutic applications. Data-driven computer vision and  AI solutions for medical imaging thereby represent a great potential to make a real-life impact by improving patient care.
 
@@ -29,46 +20,11 @@ However, safety requirements associated with healthcare pose major challenges fo
 
 In addressing these demands, data engineering emerges as a crucial driver in advancing medical imaging research into deployment. Nevertheless, it is challenging to fulfill all the needs of task-specific applications via traditional methods. To bridge the gap, this workshop aims to encourage the discussion on topics related to push forward the frontier of data curation and augmentation for medical applications to tackle the challenges of limited or imperfect data in the real-world medical application.
 
-### Scope:
+We are excited to provide an interactive workshop platform to host topics related to medical imaging and medical computer vision, which include but are not limited to:
 
-We invite topics related to medical imaging and medical computer vision which include but are not limited to:
--Data selection and curation
-  - clinical data collection & analysis pipelines
-  - multi-modal and/or longitudinal data management & analysis
-  - data selection techniques
-  - data bias analysis
-  - annotation tools and strategies
+- Data selection and curation
 - Data synthesis and augmentation
-  - generative modeling
-  - neural rendering
-  - style transfer
-  - physics-based simulation
-  - sim2real gap
-  - label augmentation
 - Learning with data scarcity
-  - domain adaptation/generalization
-  - few-shot/zero-shot learning
-  - Semi-/self-/un-/weakly-supervised learning
-  - active learning
-  - multi-modal learning
 - Data verification and quality assessment
-  - noisy & incomplete data
-  - anonymization & privacy
 - Effects of Data Domain Representation on Clinical Outputs
-  - case studies of AI for rare diseases
-  - downstream impact of data bias in augmentation
-  - downstream impact of synthetic data
 - From Data to Results: Learning from Success
-  - showcasing data-centric solutions with clinical impact
-
-Data modalities include but are not limited to:
-* MRI / CT / US / Multi-spectral imaging
-* Microscopy / Pathology data
-* Clinical data
-* Surgical image/video data
-
-### Submission:
-
-Papers can be submitted via OpenReview until [_to be announced_]. Please prepare workshop submissions in the CVPR format (8 Pages excl. references) using the corresponding template. For supplementary material, CVPR rules apply as well.
-
-The submission should be anonymous and follow the CVPR conference format. A double-blind reviewing process is adhered to guarantee paper quality. In submitting a paper, authors implicitly acknowledge that no paper of substantially similar content has been or will be submitted to another conference or workshop until the decisions have been made by our workshop.
