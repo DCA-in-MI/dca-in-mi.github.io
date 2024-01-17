@@ -5,7 +5,7 @@ description: News
 filename: news
 ---
 
-# News
-
-# [01/16/2024] Call for Paper is up now! 
+# [01/16/2024]
+* * *
+Call for Paper is up now! [Call for Paper Link](./call_for_paper.html).
 

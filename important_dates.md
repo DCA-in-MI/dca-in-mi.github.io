@@ -5,8 +5,6 @@ description: Important Dates
 filename: important_dates
 ---
 
-# Important Dates
-
 **To be announced.**
 
 [back](./)

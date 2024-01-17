@@ -5,8 +5,6 @@ description: Workshop program
 filename: program
 ---
 
-## Workshop Program
-
 **To be announced.**
 
 [back](./)
