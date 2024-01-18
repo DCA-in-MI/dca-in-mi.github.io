@@ -1,11 +1,21 @@
 ---
 layout: default
 title: DCA in MI Workshop
-description: Workshop committee
-filename: people
+description: Organizers
+filename: organizers
 ---
 
-<img style="float: left;" src="assets/img/Shuoqi_profile.png", width="250" height="250">
+<!-- <img style="float: left;" src="assets/img/Shuoqi_profile.png", width="250" height="250"> -->
+
+
+<div class="container">
+    <div class="image">
+    <img src="assets/img/Shuoqi_profile.png", width="250" height="250">
+    </div>
+    <div class="text">
+    <h1>This is a example picture.</h1>
+    </div>
+</div>
 
 ## Shuoqi Chen 
 
