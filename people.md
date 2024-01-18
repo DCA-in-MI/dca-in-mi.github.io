@@ -22,7 +22,7 @@ filename: organizers
 
 
 <p>
-    <img class="logo" src="assets/img/Jihun_profile.JPG" alt="Jihun_Yoon.js logo" width="200" height="200" />
+    <img class="logo" src="assets/img/Jihun_profile.jpg" alt="Jihun_Yoon.js logo" width="200" height="200" />
     <h2>Jihun Yoon</h2>
 </p>
 <p>
