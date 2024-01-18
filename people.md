@@ -10,7 +10,8 @@ filename: organizers
 
 <div class="container">
     <div class="image">
-    <img src="assets/img/Shuoqi_profile.png", width="250" height="250">
+    <!-- <img src="assets/img/Shuoqi_profile.png", width="250" height="250"> -->
+    <img class="logo" src="assets/img/workshop_logo.png" alt="workshop_logo.js logo" width="200" height="89" />
     </div>
     <div class="text">
     <h1>This is a example picture.</h1>
