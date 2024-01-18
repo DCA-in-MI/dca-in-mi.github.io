@@ -7,7 +7,7 @@ filename: organizers
 
 <style>
     img {
-    vertical-align: middle;
+        vertical-align: middle;
     }
 </style>
 
@@ -20,9 +20,8 @@ filename: organizers
 </p>
 <p> <b>Contact</b>: shuoqi.chen@intusurg.com</p>
 
-
 <p>
-    <img class="logo" src="assets/img/Jihun_profile.jpg" alt="Jihun_Yoon.js logo" width="200" height="200" />
+    <img class="logo" src="assets/img/Jihun_profile.JPG" alt="Jihun_Yoon.js logo" width="200" height="200" />
     <h2>Jihun Yoon</h2>
 </p>
 <p>
@@ -38,7 +37,6 @@ filename: organizers
     Rogerio Nespolo is a biomedical engineering PhD candidate and researcher at the University of Illinois Chicago. His work is focused on real-time surgical guidance and surgeons’ skills assessment for eye surgery and robot-assisted procedures employing multiple data modalities - image, kinematics, and visual attention - via computer vision and deep learning. His interests also include the investigation of biased datasets in the surgical field and its impact on minority populations.
 </p>
 <p> <b>Contact</b>: rgarci67@uic.edu</p>
-
 
 <p>
     <img class="logo" src="https://github.githubassets.com/images/icons/emoji/octocat.png" alt="Rohit_Jena.js logo" width="200" height="200" />
