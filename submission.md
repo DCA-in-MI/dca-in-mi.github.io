@@ -1,11 +1,9 @@
 ---
 layout: default
 title: DCA in MI Workshop
-description: Call for Paper
-filename: call_for_paper
+description: Submission
+filename: submission
 ---
-
-## Submission:
 
 Papers can be submitted via [_to be announced_] until [_to be announced_]. The submission should be anonymous and follow the CVPR conference [format](https://cvpr.thecvf.com/Conferences/2024/AuthorGuidelines) and [template](https://github.com/cvpr-org/author-kit/releases) (8 pages excl. references). Supplementary material can be submitted as well.
 
