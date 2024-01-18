@@ -9,23 +9,28 @@ filename: organizers
 
 <style>
     .container {
-    display: flex;
-    align-items: center;
-    justify-content: center
+        display: flex;
+        align-items: center;
+        justify-content: center
+    }
+    img {
+        max-width: 100%;
+        max-height:100%;
+        float: left;
     }
     .text {
-    padding-left: 120 px;
+        padding-left: 120 px;
     }
 </style>
 
 <div class="container">
     <div class="image">
-    <img class="logo" src="assets/img/Shuoqi_profile.png" alt="workshop_logo.js logo" width="120" height="120" />
+        <img class="logo" src="assets/img/Shuoqi_profile.png" alt="workshop_logo.js logo" width="120" height="120" />
     </div>
     <div class="text">
-    <h2>Shuoqi Chen</h2>
-    <p>This is an example Shuoqi Chen is a Computer Vision Medical Imaging engineer at Intuitive Surgical, Inc., specializing in the intersection of advanced imaging technologies and robotic-assisted medical procedures. He earned his graduate degree from the Robotics Institute at Carnegie Mellon University, and has since worked on integrating advanced medical imaging modalities to clinical solutions for minimally invasive lung biopsies. Shuoqi is an active presenter and reviewer in a number of robotics and AI conference, including IEEE TRO, IROS, CVPR, and ICML.</p>
-    <p> <b>Contact</b>: shuoqi.chen@intusurg.com</p>
+        <h2>Shuoqi Chen</h2>
+        <p>This is an example Shuoqi Chen is a Computer Vision Medical Imaging engineer at Intuitive Surgical, Inc., specializing in the intersection of advanced imaging technologies and robotic-assisted medical procedures. He earned his graduate degree from the Robotics Institute at Carnegie Mellon University, and has since worked on integrating advanced medical imaging modalities to clinical solutions for minimally invasive lung biopsies. Shuoqi is an active presenter and reviewer in a number of robotics and AI conference, including IEEE TRO, IROS, CVPR, and ICML.</p>
+        <p> <b>Contact</b>: shuoqi.chen@intusurg.com</p>
     </div>
 </div>
 
