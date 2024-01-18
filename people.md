@@ -8,11 +8,15 @@ filename: organizers
 <!-- <img style="float: left;" src="assets/img/Shuoqi_profile.png", width="250" height="250"> -->
 
 <style>
-  .container {
-  display: flex;
-  align-items: center;
-  justify-content: center
-}
+    .container {
+    display: flex;
+    align-items: center;
+    justify-content: center
+    }
+    .text {
+    padding-left: 20px;
+    }
+</style>
 
 <div class="container">
     <div class="image">
