@@ -34,12 +34,6 @@ filename: organizers
     </div>
 </div>
 
-## Shuoqi Chen 
-
-Shuoqi Chen is a Computer Vision Medical Imaging engineer at Intuitive Surgical, Inc., specializing in the intersection of advanced imaging technologies and robotic-assisted medical procedures. He earned his graduate degree from the Robotics Institute at Carnegie Mellon University, and has since worked on integrating advanced medical imaging modalities to clinical solutions for minimally invasive lung biopsies. Shuoqi is an active presenter and reviewer in a number of robotics and AI conference, including IEEE TRO, IROS, CVPR, and ICML.
-
-**Contact**: shuoqi.chen@intusurg.com
-
 ![Octocat](https://github.githubassets.com/images/icons/emoji/octocat.png) ## Jihun Yoon 
 
 Jihun Yoon is an AI research engineer at Hutom in Seoul, South Korea. His main focus is on developing techniques for surgical scene understanding that enable a quantitative evaluation of surgeries. One of his main research objectives is to improve model generalization through understanding datasets. Jihun and his team at Hutom have recently published the SISVSE dataset at MICCAI 2022, which is currently the largest robotic gastrectomy segmentation dataset and makes use of virtual surgery synthetic data. Jihun was also awarded for winning the object detection in video challenge at EPICKitchens Challenges, CVPR 2020, with a novel semi-supervised learning method for sparsely annotated datasets.
