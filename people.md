@@ -7,14 +7,21 @@ filename: organizers
 
 <!-- <img style="float: left;" src="assets/img/Shuoqi_profile.png", width="250" height="250"> -->
 
+<style>
+  .container {
+  display: flex;
+  align-items: center;
+  justify-content: center
+}
 
 <div class="container">
     <div class="image">
-    <!-- <img src="assets/img/Shuoqi_profile.png", width="250" height="250"> -->
-    <img class="logo" src="assets/img/workshop_logo.png" alt="workshop_logo.js logo" width="200" height="89" />
+    <!-- <img src="assets/img/Shuoqi_profile.png", width="150" height="150"> -->
+    <img class="logo" src="assets/img/Shuoqi_profile.png" alt="workshop_logo.js logo" width="200" height="89" />
     </div>
     <div class="text">
-    <h1>This is a example picture.</h1>
+    <h2>Paris is one of the most magnificient cities in France.</h2>
+    <p>This is an example Shuoqi Chen is a Computer Vision Medical Imaging engineer at Intuitive Surgical, Inc., specializing in the intersection of advanced imaging technologies and robotic-assisted medical procedures. He earned his graduate degree from the Robotics Institute at Carnegie Mellon University, and has since worked on integrating advanced medical imaging modalities to clinical solutions for minimally invasive lung biopsies. Shuoqi is an active presenter and reviewer in a number of robotics and AI conference, including IEEE TRO, IROS, CVPR, and ICML.</p>
     </div>
 </div>
 
