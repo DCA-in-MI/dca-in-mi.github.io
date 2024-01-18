@@ -12,71 +12,45 @@ filename: organizers
 </style>
 
 <p>
-    <img class="logo" src="assets/img/Shuoqi_profile.png" alt="workshop_logo.js logo" width="200" height="200" />
+    <img class="logo" src="assets/img/Shuoqi_profile.png" alt="Shuoqi_Chen.js logo" width="200" height="200" />
     <h2>Shuoqi Chen</h2>
 </p>
 <p>
-    This is an example Shuoqi Chen is a Computer Vision Medical Imaging engineer at Intuitive Surgical, Inc., specializing in the intersection of advanced imaging technologies and robotic-assisted medical procedures. He earned his graduate degree from the Robotics Institute at Carnegie Mellon University, and has since worked on integrating advanced medical imaging modalities to clinical solutions for minimally invasive lung biopsies. Shuoqi is an active presenter and reviewer in a number of robotics and AI conference, including IEEE TRO, IROS, CVPR, and ICML.
+    Shuoqi Chen is a Computer Vision Medical Imaging engineer at Intuitive Surgical, Inc., specializing in the intersection of advanced imaging technologies and robotic-assisted medical procedures. He earned his graduate degree from the Robotics Institute at Carnegie Mellon University, and has since worked on integrating advanced medical imaging modalities to clinical solutions for minimally invasive lung biopsies. Shuoqi is an active presenter and reviewer in a number of robotics and AI conference, including IEEE TRO, IROS, CVPR, and ICML.
 </p>
 <p> <b>Contact</b>: shuoqi.chen@intusurg.com</p>
 
-<!-- <style>
-    .container {
-        display: flex;
-        align-items: center;
-        justify-content: center
-    }
-    img {
-        max-width: 100%;
-        max-height:100%;
-        float: left;
-    }
-    .text {
-        padding-left: 120 px;
-    }
-</style>
 
-<style>
-    img {
-    vertical-align: middle;
-    }
-</style>
+<p>
+    <img class="logo" src="https://github.githubassets.com/images/icons/emoji/octocat.png" alt="Jihun_Yoon.js logo" width="200" height="200" />
+    <h2>Jihun Yoon</h2>
+</p>
+<p>
+    Jihun Yoon is an AI research engineer at Hutom in Seoul, South Korea. His main focus is on developing techniques for surgical scene understanding that enable a quantitative evaluation of surgeries. One of his main research objectives is to improve model generalization through understanding datasets. Jihun and his team at Hutom have recently published the SISVSE dataset at MICCAI 2022, which is currently the largest robotic gastrectomy segmentation dataset and makes use of virtual surgery synthetic data. Jihun was also awarded for winning the object detection in video challenge at EPICKitchens Challenges, CVPR 2020, with a novel semi-supervised learning method for sparsely annotated datasets.
+</p>
+<p> <b>Contact</b>: yjh2020@hutom.io</p>
 
-<div class="container">
-    <div class="image">
-        <img class="logo" src="assets/img/Shuoqi_profile.png" alt="workshop_logo.js logo" width="120" height="120" />
-    </div>
-    <div class="text">
-        <h2>Shuoqi Chen</h2>
-        <p>This is an example Shuoqi Chen is a Computer Vision Medical Imaging engineer at Intuitive Surgical, Inc., specializing in the intersection of advanced imaging technologies and robotic-assisted medical procedures. He earned his graduate degree from the Robotics Institute at Carnegie Mellon University, and has since worked on integrating advanced medical imaging modalities to clinical solutions for minimally invasive lung biopsies. Shuoqi is an active presenter and reviewer in a number of robotics and AI conference, including IEEE TRO, IROS, CVPR, and ICML.</p>
-        <p> <b>Contact</b>: shuoqi.chen@intusurg.com</p>
-    </div>
-</div> -->
-
-![Octocat](https://github.githubassets.com/images/icons/emoji/octocat.png) ## Jihun Yoon 
-
-Jihun Yoon is an AI research engineer at Hutom in Seoul, South Korea. His main focus is on developing techniques for surgical scene understanding that enable a quantitative evaluation of surgeries. One of his main research objectives is to improve model generalization through understanding datasets. Jihun and his team at Hutom have recently published the SISVSE dataset at MICCAI 2022, which is currently the largest robotic gastrectomy segmentation dataset and makes use of virtual surgery synthetic data. Jihun was also awarded for winning the object detection in video challenge at EPICKitchens Challenges, CVPR 2020, with a novel semi-supervised learning method for sparsely annotated datasets.
-
-**Contact**: yjh2020@hutom.io
-
-<h2>
-    <img class="logo" src="assets/img/Rogerio_profile.JPEG" alt="workshop_logo.js logo" width="200" height="200" />
-    Rogerio Nespolo
-</h2>
+<p>
+    <img class="logo" src="assets/img/Rogerio_profile.JPEG" alt="Rogerio_Nespolo.js logo" width="200" height="200" />
+    <h2>Rogerio Nespolo</h2>
+</p>
 <p>
     Rogerio Nespolo is a biomedical engineering PhD candidate and researcher at the University of Illinois Chicago. His work is focused on real-time surgical guidance and surgeons’ skills assessment for eye surgery and robot-assisted procedures employing multiple data modalities - image, kinematics, and visual attention - via computer vision and deep learning. His interests also include the investigation of biased datasets in the surgical field and its impact on minority populations.
 </p>
 <p> <b>Contact</b>: rgarci67@uic.edu</p>
 
 
-![Octocat](https://github.githubassets.com/images/icons/emoji/octocat.png) ## Rohit Jena
-
-Rohit Jena is a 3rd year Ph.D. student in Computer and Information Science at University of Pennsylvania. He is currently working on medical image registration, segmentation, and scaling up deep learning algorithms to 3D data. Previously, he has worked on problems including evaluation in instance segmentation, segmentation in neurosurgery, self-supervised representation learning for vascular segmentation, and exact aleatoric uncertainty estimation for medical image segmentation. Rohit is an active contributor in a number of AI conferences and journals like CVPR, MICCAI, IPMI, CoRL, MedIA, and has reviewed papers in CVPR, ECCV, ICCV, IJCV, ICML, ICLR, NeurIPS and MICCAI.
-
-**Contact**: rjena@seas.upenn.edu
+<p>
+    <img class="logo" src="https://github.githubassets.com/images/icons/emoji/octocat.png" alt="Rohit_Jena.js logo" width="200" height="200" />
+    <h2>Rohit Jena</h2>
+</p>
+<p>
+    Rohit Jena is a 3rd year Ph.D. student in Computer and Information Science at University of Pennsylvania. He is currently working on medical image registration, segmentation, and scaling up deep learning algorithms to 3D data. Previously, he has worked on problems including evaluation in instance segmentation, segmentation in neurosurgery, self-supervised representation learning for vascular segmentation, and exact aleatoric uncertainty estimation for medical image segmentation. Rohit is an active contributor in a number of AI conferences and journals like CVPR, MICCAI, IPMI, CoRL, MedIA, and has reviewed papers in CVPR, ECCV, ICCV, IJCV, ICML, ICLR, NeurIPS and MICCAI.
+</p>
+<p> <b>Contact</b>: rjena@seas.upenn.edu</p>
 
 <p>
-    <img class="logo" src="assets/img/Wanwen_profile.png" alt="workshop_logo.js logo" width="200" height="200" />
+    <img class="logo" src="assets/img/Wanwen_profile.png" alt="Wanwen_Chen.js logo" width="200" height="200" />
     <h2>Wanwen Chen</h2>
 </p>
 <p>
@@ -86,7 +60,7 @@ Rohit Jena is a 3rd year Ph.D. student in Computer and Information Science at Un
 
 
 <p>
-    <img class="logo" src="assets/img/Dominik_profile.jpg" alt="workshop_logo.js logo" width="200" height="200" />
+    <img class="logo" src="assets/img/Dominik_profile.jpg" alt="Dominik_Rivoir.js logo" width="200" height="200" />
     <h2>Dominik Rivoir</h2>
 </p>
 <p>
