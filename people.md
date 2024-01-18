@@ -59,10 +59,10 @@ Jihun Yoon is an AI research engineer at Hutom in Seoul, South Korea. His main f
 
 **Contact**: yjh2020@hutom.io
 
-<p>
+<h2>
     <img class="logo" src="assets/img/Rogerio_profile.JPEG" alt="workshop_logo.js logo" width="200" height="200" />
-    <h2>Rogerio Nespolo</h2>
-</p>
+    Rogerio Nespolo
+</h2>
 <p>
     Rogerio Nespolo is a biomedical engineering PhD candidate and researcher at the University of Illinois Chicago. His work is focused on real-time surgical guidance and surgeons’ skills assessment for eye surgery and robot-assisted procedures employing multiple data modalities - image, kinematics, and visual attention - via computer vision and deep learning. His interests also include the investigation of biased datasets in the surgical field and its impact on minority populations.
 </p>
