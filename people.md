@@ -5,9 +5,18 @@ description: Organizers
 filename: organizers
 ---
 
-<!-- <img style="float: left;" src="assets/img/Shuoqi_profile.png", width="250" height="250"> -->
-
 <style>
+    img {
+    vertical-align: middle;
+    }
+</style>
+
+<p>
+    <img class="logo" src="assets/img/Shuoqi_profile.png" alt="workshop_logo.js logo" width="120" height="120" />
+    This is an example Shuoqi Chen is a Computer Vision Medical Imaging engineer at Intuitive Surgical, Inc., specializing in the intersection of advanced imaging technologies and robotic-assisted medical procedures. He earned his graduate degree from the Robotics Institute at Carnegie Mellon University, and has since worked on integrating advanced medical imaging modalities to clinical solutions for minimally invasive lung biopsies. Shuoqi is an active presenter and reviewer in a number of robotics and AI conference, including IEEE TRO, IROS, CVPR, and ICML.
+</p>
+
+<!-- <style>
     .container {
         display: flex;
         align-items: center;
@@ -23,6 +32,12 @@ filename: organizers
     }
 </style>
 
+<style>
+    img {
+    vertical-align: middle;
+    }
+</style>
+
 <div class="container">
     <div class="image">
         <img class="logo" src="assets/img/Shuoqi_profile.png" alt="workshop_logo.js logo" width="120" height="120" />
@@ -32,7 +47,7 @@ filename: organizers
         <p>This is an example Shuoqi Chen is a Computer Vision Medical Imaging engineer at Intuitive Surgical, Inc., specializing in the intersection of advanced imaging technologies and robotic-assisted medical procedures. He earned his graduate degree from the Robotics Institute at Carnegie Mellon University, and has since worked on integrating advanced medical imaging modalities to clinical solutions for minimally invasive lung biopsies. Shuoqi is an active presenter and reviewer in a number of robotics and AI conference, including IEEE TRO, IROS, CVPR, and ICML.</p>
         <p> <b>Contact</b>: shuoqi.chen@intusurg.com</p>
     </div>
-</div>
+</div> -->
 
 ![Octocat](https://github.githubassets.com/images/icons/emoji/octocat.png) ## Jihun Yoon 
 
