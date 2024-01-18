@@ -59,11 +59,15 @@ Jihun Yoon is an AI research engineer at Hutom in Seoul, South Korea. His main f
 
 **Contact**: yjh2020@hutom.io
 
-![Octocat](https://github.githubassets.com/images/icons/emoji/octocat.png) ## Rogerio Nespolo
+<p>
+    <img class="logo" src="assets/img/Rogerio_profile.JPEG" alt="workshop_logo.js logo" width="200" height="200" />
+    <h2>Rogerio Nespolo</h2>
+</p>
+<p>
+    Rogerio Nespolo is a biomedical engineering PhD candidate and researcher at the University of Illinois Chicago. His work is focused on real-time surgical guidance and surgeons’ skills assessment for eye surgery and robot-assisted procedures employing multiple data modalities - image, kinematics, and visual attention - via computer vision and deep learning. His interests also include the investigation of biased datasets in the surgical field and its impact on minority populations.
+</p>
+<p> <b>Contact</b>: rgarci67@uic.edu</p>
 
-Rogerio Nespolo is a biomedical engineering PhD candidate and researcher at the University of Illinois Chicago. His work is focused on real-time surgical guidance and surgeons’ skills assessment for eye surgery and robot-assisted procedures employing multiple data modalities - image, kinematics, and visual attention - via computer vision and deep learning. His interests also include the investigation of biased datasets in the surgical field and its impact on minority populations.
-
-**Contact**: rgarci67@uic.edu
 
 ![Octocat](https://github.githubassets.com/images/icons/emoji/octocat.png) ## Rohit Jena
 
@@ -76,18 +80,19 @@ Rohit Jena is a 3rd year Ph.D. student in Computer and Information Science at Un
     <h2>Wanwen Chen</h2>
 </p>
 <p>
-    Wanwen Chen is a PhD candidate in Electrical and Computer Engineering at the University of British
-    Columbia, Canada, researching ultrasound imaging and augmented reality with Dr. Tim Salcudean. Her research focuses on classical and deep learning methods for ultrasound imaging and augmented reality for transoral robotic surgery, and her research is conducted in close collaboration with Vancouver General Hospital. She has been a reviewer in medical imaging and medical robotics conferences and workshops (ISMR, AE-CAI). She has various experience in event and conference organization (volunteer in MICCAI 2023, Vice President Academic in ECE Graduate Student Association at UBC,
-    etc.).
+    Wanwen Chen is a PhD candidate in Electrical and Computer Engineering at the University of British Columbia, Canada, researching ultrasound imaging and augmented reality with Dr. Tim Salcudean. Her research focuses on classical and deep learning methods for ultrasound imaging and augmented reality for transoral robotic surgery, and her research is conducted in close collaboration with Vancouver General Hospital. She has been a reviewer in medical imaging and medical robotics conferences and workshops (ISMR, AE-CAI). She has various experience in event and conference organization (volunteer in MICCAI 2023, Vice President Academic in ECE Graduate Student Association at UBC, etc.).
 </p>
 <p> <b>Contact</b>: wanwenc@ece.ubc.ca</p>
 
 
-![Octocat](https://github.githubassets.com/images/icons/emoji/octocat.png) ## Dominik Rivoir 
-
-Dominik Rivoir is a 5th-year PhD student at the National Center for Tumor Diseases in Germany as well as the Centre for Tactile Internet of TU Dresden, Germany. His research includes unsupervised methods for neural rendering and data synthesis in surgical computer vision applications. He has actively contributed to both the main computer vision field as well as medical applications, having published at ICCV, MICCAI and IPCAI and being a regular reviewer at venues such as CVPR, ICCV, ECCV, MICCAI, MedIA, TMI or IPCAI
-
-**Contact**: dominik.rivoir@nct-dresden.de
+<p>
+    <img class="logo" src="assets/img/Dominik_profile.jpg" alt="workshop_logo.js logo" width="200" height="200" />
+    <h2>Dominik Rivoir</h2>
+</p>
+<p>
+    Dominik Rivoir is a 5th-year PhD student at the National Center for Tumor Diseases in Germany as well as the Centre for Tactile Internet of TU Dresden, Germany. His research includes unsupervised methods for neural rendering and data synthesis in surgical computer vision applications. He has actively contributed to both the main computer vision field as well as medical applications, having published at ICCV, MICCAI and IPCAI and being a regular reviewer at venues such as CVPR, ICCV, ECCV, MICCAI, MedIA, TMI or IPCAI
+</p>
+<p> <b>Contact</b>: dominik.rivoir@nct-dresden.de</p>
 
 [back](./)
 
