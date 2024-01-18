@@ -1,7 +1,7 @@
 ---
 layout: default
-title: DCA in MI Workshop
-description: Organizers
+title: Organizers
+description: DCA in MI Workshop @ CVPR 2024
 filename: organizers
 ---
 

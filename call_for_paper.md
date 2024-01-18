@@ -1,7 +1,7 @@
 ---
 layout: default
-title: DCA in MI Workshop
-description: Call for Paper
+title: Call for Papers
+description: DCA in MI Workshop @ CVPR 2024
 filename: call_for_paper
 ---
 

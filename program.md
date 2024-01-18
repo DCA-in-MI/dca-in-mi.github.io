@@ -1,7 +1,7 @@
 ---
 layout: default
-title: DCA in MI Workshop
-description: Workshop program
+title: Workshop Program
+description: DCA in MI Workshop @ CVPR 2024
 filename: program
 ---
 

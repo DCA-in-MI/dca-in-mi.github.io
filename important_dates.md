@@ -1,7 +1,7 @@
 ---
 layout: default
-title: DCA in MI Workshop
-description: Important Dates
+title: Important Dates
+description: DCA in MI Workshop @ CVPR 2024
 filename: important_dates
 ---
 
