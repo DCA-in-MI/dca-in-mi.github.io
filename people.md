@@ -12,7 +12,10 @@ filename: organizers
 </style>
 
 <p>
-    <img class="logo" src="assets/img/Shuoqi_profile.png" alt="workshop_logo.js logo" width="120" height="120" />
+    <img class="logo" src="assets/img/Shuoqi_profile.png" alt="workshop_logo.js logo" width="200" height="200" />
+    <h2>Shuoqi Chen</h2>
+</p>
+<p>
     This is an example Shuoqi Chen is a Computer Vision Medical Imaging engineer at Intuitive Surgical, Inc., specializing in the intersection of advanced imaging technologies and robotic-assisted medical procedures. He earned his graduate degree from the Robotics Institute at Carnegie Mellon University, and has since worked on integrating advanced medical imaging modalities to clinical solutions for minimally invasive lung biopsies. Shuoqi is an active presenter and reviewer in a number of robotics and AI conference, including IEEE TRO, IROS, CVPR, and ICML.
 </p>
 
