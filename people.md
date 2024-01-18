@@ -21,7 +21,7 @@ filename: organizers
 <div class="container">
     <div class="image">
     <!-- <img src="assets/img/Shuoqi_profile.png", width="150" height="150"> -->
-    <img class="logo" src="assets/img/Shuoqi_profile.png" alt="workshop_logo.js logo" width="200" height="89" />
+    <img class="logo" src="assets/img/Shuoqi_profile.png" alt="workshop_logo.js logo" width="200" height="200" />
     </div>
     <div class="text">
     <h2>Paris is one of the most magnificient cities in France.</h2>
