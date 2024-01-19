@@ -13,5 +13,6 @@ filename: important_dates
 
 **Camera-ready deadline:** _[TBA]_
 
+**Workshop day:** June 17 or 18, 2014 in Seattle, WA, USA
 
 [back](./)
