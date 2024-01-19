@@ -5,6 +5,13 @@ description: DCA in MI Workshop @ CVPR 2024
 filename: important_dates
 ---
 
-**To be announced.**
+**Paper submission opens:** _[TBA] (very soon!)_
+
+**Paper submission deadline:** March 31, 2024
+
+**Notification to authors:** April 28, 2024
+
+**Camera-ready deadline:** _[TBA]_
+
 
 [back](./)
