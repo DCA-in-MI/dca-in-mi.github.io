@@ -4,9 +4,9 @@ title: Data Curation and Augmentation in Medical Imaging
 description: DCA in MI Workshop @ CVPR 2024
 filename: index
 ---
-
-<img class="banner", src="assets/img/national-cancer-institute-free-to-use-unsplash.jpg" alt="Main_page_banner.js banner", width="100%">
-
+<p>
+    <img class="banner", src="assets/img/national-cancer-institute-free-to-use-unsplash.jpg" alt="Main_page_banner.js banner", width="100%">
+</p>
 ## About our workshop
 
 Data-driven computer vision and AI solutions for medical imaging thereby represent a great potential to make a real-life impact by improving patient care. However, safety requirements associated with healthcare pose major challenges for this research field, especially regarding data curation. Collection and annotation of medical data is often resource-intensive due to the need for medical expertise. At the same time, data quality is of the highest importance to ensure safe and fair usage in clinical settings. As a result, efficient data curation and validation, learning from small data as well as data synthesis are important areas of research.
