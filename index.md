@@ -5,13 +5,7 @@ description: DCA in MI Workshop @ CVPR 2024
 filename: index
 ---
 
-<!-- [Important Dates](./important_dates.html)
-
-[Call for Paper](./call_for_paper.html)
-
-[People](./people.html)
-
-[Program](./program.html) -->
+<img class="banner", src="assets/img/national-cancer-institute-free-to-use-unsplash.jpg" alt="Main_page_banner.js banner", width="100%">
 
 ## About our workshop
 
