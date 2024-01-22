@@ -1,13 +1,15 @@
 ---
-layout: default
+layout: main_page
 title: Data Curation and Augmentation in Medical Imaging
 description: DCA in MI Workshop @ CVPR 2024
 filename: index
 ---
 
+<!--
 <p>
     <img class="banner", src="assets/img/national-cancer-institute-free-to-use-unsplash.jpg" alt="main_page_banner.js banner", width="100%" />
 </p>
+-->
 
 ## About our workshop
 
