@@ -39,7 +39,7 @@ filename: organizers
 <p> <b>Contact</b>: rgarci67@uic.edu</p>
 
 <p>
-    <img class="logo" src="https://github.githubassets.com/images/icons/emoji/octocat.png" alt="Rohit_Jena.js logo" width="200" height="200" />
+    <img class="logo" src="assets/img/rohit_profile.png" alt="Rohit_Jena.js logo" width="200" height="200" />
     <h2>Rohit Jena</h2>
 </p>
 <p>
