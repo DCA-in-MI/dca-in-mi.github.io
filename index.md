@@ -19,3 +19,6 @@ We are excited to provide an interactive workshop platform to host topics relate
 - Data Verification and Quality Assessment
 - Effects of Data Domain Representation on Clinical Outputs
 - From Data to Results: Learning from Success
+
+This workshop will be held in conjunction with [CVPR 2024](https://cvpr.thecvf.com/) in Seattle and will include keynote presentations, panels and presentations of submitted papers.
+Follow us on [X](https://twitter.com/dca_in_mi) for latest news.
