@@ -5,7 +5,8 @@ description: DCA in MI Workshop @ CVPR 2024
 filename: call_for_paper
 ---
 
-## Overview:
+## Overview
+
 Medical imaging is a key component of modern healthcare, facilitating a wide array of diagnostic and therapeutic applications. Data-driven computer vision and  AI solutions for medical imaging thereby represent a great potential to make a real-life impact by improving patient care.
 
 However, safety requirements associated with healthcare pose major challenges for this research field, especially regarding data curation. Collection and annotation of medical data is often resource-intensive due to the need for medical expertise. At the same time, data quality is of the highest importance to ensure safe and fair usage in clinical settings. As a result, efficient data curation and validation as well as learning from small data are important areas of research. Synthetic data generation and augmentation are further promising directions, which themselves, however, pose challenges regarding quality, bias, and utility.
@@ -28,7 +29,7 @@ We invite topics related to medical imaging and medical computer vision which in
   - physics-based simulation
   - sim2real gap
   - label augmentation
-- Learning with limited & imperfect data
+- Learning with limited and imperfect data
   - domain adaptation/generalization
   - few-shot/zero-shot learning
   - Semi-/self-/un-/weakly-supervised learning
@@ -38,11 +39,11 @@ We invite topics related to medical imaging and medical computer vision which in
 - Data verification and quality assessment
   - annotation consensus
   - anonymization & privacy
-- Effects of Data Domain Representation on Clinical Outputs
+- Effects of data domain representation on clinical outputs
   - case studies of AI for rare diseases
   - downstream impact of data bias in augmentation
   - downstream impact of synthetic data
-- From Data to Results: Learning from Success
+- From data to results: learning from the success
   - showcasing data-centric solutions with clinical impact
 
 [back](./)
