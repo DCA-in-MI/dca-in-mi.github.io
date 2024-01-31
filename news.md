@@ -7,7 +7,7 @@ filename: news
 
 ## [01/30/2024]
 * * *
-[Submission dates](./submission.html) portal is now open! 
+[Submission portal](./submission.html) is now open! 
 
 ## [01/19/2024]
 * * *
