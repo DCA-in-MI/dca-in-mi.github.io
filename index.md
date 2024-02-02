@@ -26,5 +26,5 @@ Follow us on [X](https://twitter.com/dca_in_mi) for latest news.
 ## Generously supported by
 
 <a href="https://ceti.one/">
-  <img src="assets/img/CeTI_MZ_RGB_Subline%404x-100.jpg" alt="CeTI logo" height="100" />
+  <img src="assets/img/ceti_logo_inverted.svg" alt="CeTI logo" height="100" />
 </a>
