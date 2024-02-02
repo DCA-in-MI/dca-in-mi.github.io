@@ -22,3 +22,9 @@ We are excited to provide an interactive workshop platform to host topics relate
 
 This workshop will be held in conjunction with [CVPR 2024](https://cvpr.thecvf.com/) in Seattle and will include keynote presentations, panels and presentations of submitted papers.
 Follow us on [X](https://twitter.com/dca_in_mi) for latest news.
+
+## Generously supported by
+
+<a href="https://ceti.one/">
+  <img src="assets/img/CeTI_MZ_RGB_Subline%404x-100.jpg" alt="CeTI logo" height="100" />
+</a>
