@@ -9,6 +9,4 @@ Papers can be submitted via [OpenReview](https://openreview.net/group?id=thecvf.
 
 A double-blind reviewing process is adhered to guarantee paper quality. There will be a single round of reviews without a rebuttal. Decisions on acceptance will be announced by **April 28, 2024**. In submitting a paper, authors implicitly acknowledge that no paper of substantially similar content has been or will be submitted to another conference or workshop until the decisions have been made by our workshop.
 
-The workshop is **non-archival**, i.e. accepted papers will not appear in the conference proceedings.
-
 [back](./)
