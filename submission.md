@@ -11,4 +11,6 @@ Papers can be submitted via [OpenReview](https://openreview.net/group?id=thecvf.
 Papers will be reviewed in accordance with the **double-blind** reviewing policy.
 There will be a single round of reviews without a rebuttal. In submitting a paper, authors implicitly acknowledge that no paper of substantially similar content has been or will be submitted to another conference or workshop until the decisions have been made by our workshop.
 
+For paper submission questions, pleas email **dca.in.mi@gmail.com**
+
 [back](./)
