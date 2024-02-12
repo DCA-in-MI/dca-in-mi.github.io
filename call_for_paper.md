@@ -7,19 +7,21 @@ filename: call_for_paper
 
 ## Call for Papers
 
-We invite submissions on papers related to Data Curation and Augmentation in Medical Imaging (see [Scope](#scope)). Selected papers will be presented in the poster session during the workshop. Papers should be submitted to one of three tracks:
+We invite submissions on papers related to Data Curation and Augmentation in Medical Imaging (see [Scope](#scope)). Selected papers will be presented in the poster session during the workshop. 
 
-- **Track 1: Archival**: Original research papers that have not been published previously at any other peer-reviewed venue. Accepted papers will be published in the CVPRW proceedings.
+<!-- Papers should be submitted to one of three tracks: -->
 
-[Track 1 Submission Link](https://openreview.net/group?id=thecvf.com/CVPR/2024/Workshop/DCAMI)
+<!-- - **Track 1: Archival**: Original research papers that have not been published previously at any other peer-reviewed venue. Accepted papers will be published in the CVPRW proceedings.
+
+- [Track 1 Submission Link](https://openreview.net/group?id=thecvf.com/CVPR/2024/Workshop/DCAMI_archival)
 
 - **Track 2: Non-Archival, Unpublished Work**: Original research that have not been published previously at any other peer-reviewed venue. Accepted papers will be presented at the workshop but will not be included in the CVPRW proceedings. This is intended for work-in-progress, preliminary results, or other research that is best suited for a workshop setting.
 
-[Track 2 Submission Link (Coming Soon)](./)
+- [Track 2 Submission Link ](https://openreview.net/group?id=thecvf.com/CVPR/2024/Workshop/DCAMI)
 
 - **Track 3: Non-Archival, Published Work**: Papers that have been published previously at another peer-reviewed venue. Accepted papers will be presented at the workshop but will not be included in the CVPRW proceedings. This is intended for work that has been published recently and is of interest to the workshop audience. 
 
-[Track 3 Submission Link(Coming Soon)](./)
+- [Track 3 Submission Link(Coming Soon)](./)
 
 
 ## Track Policy
@@ -30,7 +32,7 @@ For **Track 3**, papers can be submitted as-is and will only be reviewed for rel
 
 For paper submission questions, please email **dca.in.mi@gmail.com**
 
-See [Important Dates](./important_dates) for submission deadlines.
+See [Important Dates](./important_dates) for submission deadlines. -->
 
 <!--
 ## Overview

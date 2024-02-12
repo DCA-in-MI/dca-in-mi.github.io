@@ -25,7 +25,9 @@ filename: important_dates
 
 ---
 
-**Workshop day:** June 17 or 18, 2014 in Seattle, WA, USA
+## Workshop day
+
+June 17, 2014 in Seattle, WA, USA
 
 
 [back](./)
