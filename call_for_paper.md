@@ -9,40 +9,36 @@ filename: call_for_paper
 
 We invite submissions on papers related to Data Curation and Augmentation in Medical Imaging (see [Scope](#scope)). Selected papers will be presented in the poster session during the workshop. 
 
-<!-- Papers should be submitted to one of three tracks: -->
+Papers should be submitted to one of three tracks:
 
-<!-- - **Track 1: Archival**: Original research papers that have not been published previously at any other peer-reviewed venue. Accepted papers will be published in the CVPRW proceedings.
+- **Track 1: Archival**: Original research papers that have not been published previously at any other peer-reviewed venue. Accepted papers will be published in the CVPRW proceedings.
+
+- Track 1 submissions must be anonymous and papers will be reviewed in accordance with the **double-blind** reviewing policy. Submitted papers must be 3-8 pages in the [CVPR format](https://cvpr.thecvf.com/Conferences/2024/AuthorGuidelines) excluding references. Additional supplementary material can be submitted as well. 
 
 - [Track 1 Submission Link](https://openreview.net/group?id=thecvf.com/CVPR/2024/Workshop/DCAMI_archival)
 
 - **Track 2: Non-Archival, Unpublished Work**: Original research that have not been published previously at any other peer-reviewed venue. Accepted papers will be presented at the workshop but will not be included in the CVPRW proceedings. This is intended for work-in-progress, preliminary results, or other research that is best suited for a workshop setting.
 
+- Track 2 submissions must be anonymous and papers will be reviewed in accordance with the **double-blind** reviewing policy. Submitted papers must be 3-8 pages in the [CVPR format](https://cvpr.thecvf.com/Conferences/2024/AuthorGuidelines) excluding references. Additional supplementary material can be submitted as well. 
+
 - [Track 2 Submission Link ](https://openreview.net/group?id=thecvf.com/CVPR/2024/Workshop/DCAMI)
 
 - **Track 3: Non-Archival, Published Work**: Papers that have been published previously at another peer-reviewed venue. Accepted papers will be presented at the workshop but will not be included in the CVPRW proceedings. This is intended for work that has been published recently and is of interest to the workshop audience. 
 
+- Track 3 papers can be submitted as-is, and will only be reviewed for relevance to the workshop.
+
 - [Track 3 Submission Link(Coming Soon)](./)
 
-
-## Track Policy
+<!-- ## Track Policy
 
 For **Track** 1 and **Track 2**, submissions must be anonymous and papers will be reviewed in accordance with the **double-blind** reviewing policy. Submitted papers must be 3-8 pages in the [CVPR format](https://cvpr.thecvf.com/Conferences/2024/AuthorGuidelines) excluding references. Additional supplementary material can be submitted as well. 
 
-For **Track 3**, papers can be submitted as-is and will only be reviewed for relevance to the workshop.
+For **Track 3**, papers can be submitted as-is and will only be reviewed for relevance to the workshop. -->
 
-For paper submission questions, please email **dca.in.mi@gmail.com**
+For paper submission questions, please email **dca-in-mi-workshop@googlegroups.com** 
+<!-- **dca.in.mi@gmail.com** -->
 
 See [Important Dates](./important_dates) for submission deadlines. -->
-
-<!--
-## Overview
-
-Medical imaging is a key component of modern healthcare, facilitating a wide array of diagnostic and therapeutic applications. Data-driven computer vision and  AI solutions for medical imaging thereby represent a great potential to make a real-life impact by improving patient care.
-
-However, safety requirements associated with healthcare pose major challenges for this research field, especially regarding data curation. Collection and annotation of medical data is often resource-intensive due to the need for medical expertise. At the same time, data quality is of the highest importance to ensure safe and fair usage in clinical settings. As a result, efficient data curation and validation as well as learning from small data are important areas of research. Synthetic data generation and augmentation are further promising directions, which themselves, however, pose challenges regarding quality, bias, and utility.
-
-In addressing these demands, data engineering emerges as a crucial driver in advancing medical imaging research into deployment. Nevertheless, it is challenging to fulfill all the needs of task-specific applications via traditional methods. To bridge the gap, this workshop aims to encourage the discussion on topics related to  data curation and augmentation for medical applications to tackle the challenges of limited or imperfect data in the real-world medical application.
--->
 
 ## Scope:
 
