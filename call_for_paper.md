@@ -27,7 +27,7 @@ Papers should be submitted to one of three tracks:
 
   Track 3 papers can be submitted as-is, and will only be reviewed for relevance to the workshop.
 
-  [Track 3 Submission Link(Coming Soon)](./)
+  [Track 3 Submission Link](https://forms.gle/SJNDEVy5tu3y4FAv9)
 
 <!-- ## Track Policy
 
