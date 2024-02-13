@@ -40,37 +40,41 @@ For paper submission questions, please email **dca-in-mi-workshop@googlegroups.c
 
 See [Important Dates](./important_dates) for submission deadlines.
 
-## Scope:
+## Awards
+
+We expect to offer several paper awards. More info soon!
+
+## Scope
 
 We invite topics related to medical imaging and medical computer vision which include but are not limited to:
-- Data selection and curation
+- **Data selection and curation**
   - clinical data collection & analysis pipelines
   - multi-modal and/or longitudinal data management & analysis
   - data selection techniques
   - data bias analysis
   - annotation tools and strategies
-- Data synthesis and augmentation
+- **Data synthesis and augmentation**
   - generative modeling
   - neural rendering
   - style transfer
   - physics-based simulation
   - sim2real gap
   - label augmentation
-- Learning with limited and imperfect data
+- **Learning with limited and imperfect data**
   - domain adaptation/generalization
   - few-shot/zero-shot learning
   - Semi-/self-/un-/weakly-supervised learning
   - active learning
   - multi-modal learning
   - noisy & incomplete data
-- Data verification and quality assessment
+- **Data verification and quality assessment**
   - annotation consensus
   - anonymization & privacy
-- Effects of data domain representation on clinical outputs
+- **Effects of data domain representation on clinical outputs**
   - case studies of AI for rare diseases
   - downstream impact of data bias in augmentation
   - downstream impact of synthetic data
-- From data to results: learning from the success
+- **From data to results: learning from the success**
   - showcasing data-centric solutions with clinical impact
 
 [back](./)
