@@ -7,7 +7,7 @@ filename: call_for_paper
 
 ## Call for Papers
 
-We invite submissions on papers related to Data Curation and Augmentation in Medical Imaging (see [Scope](#scope)). Selected papers will be presented in the poster session during the workshop. 
+We invite submissions on papers related to Data Curation and Augmentation in Medical Imaging (see [Scope](#scope)). All accepted papers will be presented in the poster session during the workshop. Selected papers will be given the opportunity of an oral presentation.
 
 Papers should be submitted to one of three tracks:
 
