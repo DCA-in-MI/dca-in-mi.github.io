@@ -22,7 +22,7 @@ Papers should be submitted to one of three tracks:
   - Submission link: [Track 2](https://openreview.net/group?id=thecvf.com/CVPR/2024/Workshop/DCAMI)
 
 - **Track 3: Non-Archival, Published Work**:
-  - Papers that have been published previously at another peer-reviewed venue. Accepted papers will be presented at the workshop but will not be included in the CVPRW proceedings. This is intended for work that has been published recently and is of interest to the workshop audience.
+  - Papers that have been published or accepted previously at another peer-reviewed venue. Accepted papers will be presented at the workshop but will not be included in the CVPRW proceedings. This is intended for work that has been published or accepted recently and is of interest to the workshop audience.
   - Track-3 papers can be submitted as-is, and will only be reviewed for relevance to the workshop.
   - Submission link: [Track 3](https://forms.gle/SJNDEVy5tu3y4FAv9)
 
