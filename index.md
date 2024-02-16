@@ -15,7 +15,12 @@ We are excited to provide an interactive workshop platform to host topics relate
 
 - Data Selection and Curation
 - Data Synthesis and Augmentation
-- Learning with Limited and Imperfect Data
+- Learning with Limited and Imperfect Data. Incl.:
+  - Self-/semi-supervised learning
+  - federated learning
+  - active learning
+  - domain adaptation
+  - ...
 - Data Verification and Quality Assessment
 - Effects of Data Domain Representation on Clinical Outputs
 - From Data to Results: Learning from Success

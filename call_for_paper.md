@@ -59,6 +59,7 @@ We invite topics related to medical imaging and medical computer vision which in
   - label augmentation
 - **Learning with limited and imperfect data**
   - domain adaptation/generalization
+  - federated learning
   - few-shot/zero-shot learning
   - Semi-/self-/un-/weakly-supervised learning
   - active learning
