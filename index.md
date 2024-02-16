@@ -16,7 +16,7 @@ We are excited to provide an interactive workshop platform to host topics relate
 - Data Selection and Curation
 - Data Synthesis and Augmentation
 - Learning with Limited and Imperfect Data. Incl.:
-  - Self-/semi-supervised learning
+  - self-/semi-supervised learning
   - federated learning
   - active learning
   - domain adaptation
