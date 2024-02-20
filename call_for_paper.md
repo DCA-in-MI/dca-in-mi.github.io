@@ -72,6 +72,7 @@ We invite topics related to medical imaging and medical computer vision which in
   - case studies of AI for rare diseases
   - downstream impact of data bias in augmentation
   - downstream impact of synthetic data
+  - analysis of domain shifts
 - **From data to results: learning from the success**
   - showcasing data-centric solutions with clinical impact
 
