@@ -27,7 +27,7 @@ filename: important_dates
 
 ## Workshop day
 
-June 17, 2014 in Seattle, WA, USA
+June 17, 2024 in Seattle, WA, USA
 
 
 [back](./)
