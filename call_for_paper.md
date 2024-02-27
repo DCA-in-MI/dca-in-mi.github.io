@@ -32,8 +32,8 @@ For **Track** 1 and **Track 2**, submissions must be anonymous and papers will b
 
 For **Track 3**, papers can be submitted as-is and will only be reviewed for relevance to the workshop. -->
 
-For paper submission questions, please email **dca-in-mi-workshop@googlegroups.com** 
-<!-- **dca.in.mi@gmail.com** -->
+For paper submission questions, please email **dca.in.mi@gmail.com** 
+<!-- **dca-in-mi-workshop@googlegroups.com** -->
 
 See [Important Dates](./important_dates) for submission deadlines.
 
