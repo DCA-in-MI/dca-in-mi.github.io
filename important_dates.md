@@ -9,11 +9,11 @@ filename: important_dates
 
 ## Track 1 (Archival)
 
-**Paper submission deadline:** March 17, 2024
+**Paper submission deadline:** <s>March 17, 2024</s>  March 22, 2024
 
-**Notification to authors:** April 5, 2024
+**Notification to authors:** <s>April 5, 2024</s>  April 7, 2024
 
-**Camera-ready deadline:** April 10, 2024
+**Camera-ready deadline:** <s>April 10, 2024</s>  April 12, 2024
 
 ## Tracks 2 and 3 (Non-archival)
 
