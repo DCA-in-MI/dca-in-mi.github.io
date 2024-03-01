@@ -5,9 +5,13 @@ description: DCA in MI Workshop @ CVPR 2024
 filename: news
 ---
 
+## [03/01/2024]
+* * *
+We have [extended the submission deadline](./important_dates.html) for Track 1 (archival) from March 17 to **March 22, 2024**!
+
 ## [02/10/2024]
 * * *
-Both archival and non-archival options for paper submissions are supported. Check the [Call for Papers](./call_for_paper.html) and [Submission](./submission.html) pages for more information.
+Both archival and non-archival options for paper submissions are supported. Check the [Call for Papers](./call_for_paper.html) and [Important dates](./important_dates.html) pages for more information.
 
 ## [01/30/2024]
 * * *
