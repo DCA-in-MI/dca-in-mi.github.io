@@ -9,7 +9,7 @@ filename: important_dates
 
 ## Track 1 (Archival)
 
-**Paper submission deadline:** <s>March 17, 2024</s>  March 22, 2024
+**Paper submission deadline:** <s>March 17, 2024</s>  March 22, 2024 (23:59 AoE)
 
 **Notification to authors:** <s>April 5, 2024</s>  April 7, 2024
 
@@ -17,7 +17,7 @@ filename: important_dates
 
 ## Tracks 2 and 3 (Non-archival)
 
-**Paper submission deadline:** March 31, 2024
+**Paper submission deadline:** March 31, 2024 (23:59 AoE)
 
 **Notification to authors:** April 28, 2024
 
