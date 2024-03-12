@@ -5,6 +5,10 @@ description: DCA in MI Workshop @ CVPR 2024
 filename: news
 ---
 
+## [03/11/2024]
+* * *
+We want to say thank you to **CeTI**, **Hutom**, and **Intuitive Surgical** for their generous funding support, which has been instrumental in driving our program initiatives and strengthen our communty connection. A huge round of applause to our sponsors! 
+
 ## [03/01/2024]
 * * *
 We have [extended the submission deadline](./important_dates.html) for Track 1 (archival) from March 17 to **March 22, 2024**!
