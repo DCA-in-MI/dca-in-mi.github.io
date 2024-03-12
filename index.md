@@ -34,6 +34,10 @@ Follow us on [X](https://twitter.com/dca_in_mi) for latest news.
   <img src="assets/img/CeTI_MZ_RGB_Subline%404x-100.jpg" alt="CeTI logo" width="200" style="border:20px solid #FFFFFF;">
 </a>
 
+<a href="[https://ceti.one/](https://www.intuitive.com/en-us)">
+  <img src="assets/img/intuitive.png" alt="CeTI logo" width="200" style="border:20px solid #FFFFFF;">
+</a>
+
 <a href="https://hutom.io/">
   <img src="assets/img/hutom.png" alt="Hutom logo" width="200">
 </a>
