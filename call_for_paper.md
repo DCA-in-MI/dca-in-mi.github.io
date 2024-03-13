@@ -39,7 +39,12 @@ See [Important Dates](./important_dates) for submission deadlines.
 
 ## Awards
 
-We expect to offer several paper awards. More info soon!
+- Best Paper (800€)
+- Best Paper Runner-Up (400€)
+- Best Poster (400€)
+- Bench-to-Bedside Award (400€)
+
+Generously supported by the [Centre for Tactile Internet](https://ceti.one/).
 
 ## Scope
 
