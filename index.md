@@ -41,3 +41,9 @@ Follow us on [X](https://twitter.com/dca_in_mi) for latest news.
 <a href="https://hutom.io/">
   <img src="assets/img/hutom.png" alt="Hutom logo" width="200">
 </a>
+
+## Endorsed by
+
+<a href="http://www.miccai.org/">
+  <img src="assets/img/miccai.jpeg" alt="MICCAI logo" width="200" style="border:20px solid #FFFFFF;">
+</a>
