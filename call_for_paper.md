@@ -47,7 +47,7 @@ See [Important Dates](./important_dates) for submission deadlines.
 - Best Poster (400€)
 - Bench-to-Bedside Award (400€)
 
-Generously supported by the [Centre for Tactile Internet](https://ceti.one/).
+Generously provided by the [Centre for Tactile Internet (CeTI)](https://ceti.one/).
 
 ## Scope
 
