@@ -91,6 +91,6 @@ We invite topics related to medical imaging and medical computer vision which in
 - Will accepted papers be published in the CVPR-Workshop proceedings?
   - Only papers accepted to Track 1 will be published in the CVPR-Workshop proceedings.
 - Will rejected submissions from Track 1 (archival, proceedings) still be considered for acceptance at Track 2 (non-archival, preliminary work)?
-  - Yes! If a submission is rejected from Track 1 but reviews indicate that it is still valuable for Track 2 (e.g. the idea is promising but evlaution is insufficient for Track 1), author's might be offered to present their work as an accepted paper at Track 2.
+  - Yes! If a submission is rejected from Track 1 but reviews indicate that it is still valuable for Track 2 (e.g. the idea is promising but evlaution is insufficient for Track 1), authors might be offered to present their work as an accepted paper at Track 2.
 
 [back](./)
