@@ -35,7 +35,7 @@ For **Track** 1 and **Track 2**, submissions must be anonymous and papers will b
 
 For **Track 3**, papers can be submitted as-is and will only be reviewed for relevance to the workshop. -->
 
-For paper submission questions, please email **dca.in.mi@gmail.com** 
+For paper submission questions, take a look at our [FAQs](#faqs) or email **dca.in.mi@gmail.com** 
 <!-- **dca-in-mi-workshop@googlegroups.com** -->
 
 See [Important Dates](./important_dates) for submission deadlines.
@@ -83,5 +83,12 @@ We invite topics related to medical imaging and medical computer vision which in
   - analysis of domain shifts
 - **From data to results: learning from the success**
   - showcasing data-centric solutions with clinical impact
+
+## FAQs
+
+- Does every author have to have an OpenReview account?
+  - Our submission policy differs from [CVPR's](https://cvpr.thecvf.com/Conferences/2024/AuthorGuidelines) in that we do **not** require all co-authors to have a OpenReview account.
+- Will accepted papers be published in the CVPR-Workshop proceedings?
+  - Only papers accepted to Track 1 will be published in the CVPR-Workshop proceedings.
 
 [back](./)
