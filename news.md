@@ -5,6 +5,12 @@ description: DCA in MI Workshop @ CVPR 2024
 filename: news
 ---
 
+## [03/22/2024]
+* * *
+Our Track 1 (archival) submission portal is now officially closed. A huge thank you to everyone who submitted their work. Stay tuned to our Track 1 decision notifications on **04/07/2024**.
+
+Our Track 2 & 3 (non-archival) submission portals remain open until **03/31/2024**. Check out [Important dates](./important_dates.html) pages for more info.
+
 ## [03/11/2024]
 * * *
 We want to say thank you to **CeTI**, **Hutom**, and **Intuitive Surgical** for their generous funding support, which has been instrumental in driving our program initiatives and strengthen our communty connection. A huge round of applause to our sponsors! 
