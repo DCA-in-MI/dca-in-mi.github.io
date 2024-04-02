@@ -5,6 +5,10 @@ description: DCA in MI Workshop @ CVPR 2024
 filename: news
 ---
 
+## [04/01/2024]
+* * *
+All our paper submission portals (Track 1,2 and 3) are officially closed. Thanks to everyone who submitted their work. We'll be providing updates on our review status soon. Check out [Important dates](./important_dates.html) and stay tuned for more information! 
+
 ## [03/22/2024]
 * * *
 Our Track 1 (archival) submission portal is now officially closed. A huge thank you to everyone who submitted their work. Stay tuned to our Track 1 decision notifications on **04/07/2024**.
