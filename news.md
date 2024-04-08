@@ -5,6 +5,10 @@ description: DCA in MI Workshop @ CVPR 2024
 filename: news
 ---
 
+## [04/07/2024]
+* * *
+Decisions for Track 1 are out on OpenReview! Congratulations to all authors of accepted submissions, we are looking forward to seeing and discussing your papers in Seattle! Overall, the acceptance rate was 47%. Additionally, 14% of submissions were rejected from Track 1 but offered acceptance for Track 2 (non-archival).
+
 ## [04/01/2024]
 * * *
 All our paper submission portals (Track 1,2 and 3) are officially closed. Thanks to everyone who submitted their work. We'll be providing updates on our review status soon. Check out [Important dates](./important_dates.html) and stay tuned for more information! 
