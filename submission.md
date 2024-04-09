@@ -12,6 +12,9 @@ We invite submissions on papers related to Data Curation and Augmentation in Med
 - Track 1 submissions must be anonymous and papers will be reviewed in accordance with the **double-blind** reviewing policy. Submitted papers must be 3-8 pages in the [CVPR format](https://cvpr.thecvf.com/Conferences/2024/AuthorGuidelines) excluding references. Additional supplementary material can be submitted as well. 
 
 - [Track 1 Submission Link](https://openreview.net/group?id=thecvf.com/CVPR/2024/Workshop/DCAMI_archival)
+- [Track 1 Camera-ready Submission Instructions](https://drive.google.com/file/d/1IVRbiNL5l_WiHhmWCeK2g6cD5ZfqpSkW/view?usp=share_link)
+- [Track 1 Camera-ready Submission Site](https://drive.google.com/file/d/17kBZZ2gLQPO3oS5qs9R0_A8fTuWHNGwx/view?usp=share_link)
+
 
 - **Track 2: Non-Archival, Unpublished Work**: Original research that have not been published previously at any other peer-reviewed venue. Accepted papers will be presented at the workshop but will not be included in the CVPRW proceedings. This is intended for work-in-progress, preliminary results, or other research that is best suited for a workshop setting.
 

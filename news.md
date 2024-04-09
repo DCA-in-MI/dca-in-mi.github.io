@@ -5,6 +5,13 @@ description: DCA in MI Workshop @ CVPR 2024
 filename: news
 ---
 
+## [04/08/2024]
+* * *
+For Track 1 accpeted authors, instructions to archive the camera-ready paper are provided at:
+[Submission instructions](https://drive.google.com/file/d/1IVRbiNL5l_WiHhmWCeK2g6cD5ZfqpSkW/view?usp=share_link)
+[Submission site](https://drive.google.com/file/d/17kBZZ2gLQPO3oS5qs9R0_A8fTuWHNGwx/view?usp=share_link)
+The deadline for submission and copyright transfer is **April 14**. Mark the date!
+
 ## [04/01/2024]
 * * *
 All our paper submission portals (Track 1,2 and 3) are officially closed. Thanks to everyone who submitted their work. We'll be providing updates on our review status soon. Check out [Important dates](./important_dates.html) and stay tuned for more information! 
