@@ -13,7 +13,7 @@ filename: important_dates
 
 **Notification to authors:** <s>April 5, 2024</s>  April 7, 2024
 
-**Camera-ready deadline:** <s>April 10, 2024</s>  April 12, 2024
+**Camera-ready deadline:** <s>April 10, 2024</s>  April 14, 2024 (11:59pm PDT): see [submission instuctions](https://drive.google.com/file/d/1IVRbiNL5l_WiHhmWCeK2g6cD5ZfqpSkW/view) and [submission site](https://drive.google.com/file/d/17kBZZ2gLQPO3oS5qs9R0_A8fTuWHNGwx/view)
 
 ## Tracks 2 and 3 (Non-archival)
 
