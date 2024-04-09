@@ -5,12 +5,18 @@ description: DCA in MI Workshop @ CVPR 2024
 filename: news
 ---
 
+
 ## [04/08/2024]
 * * *
-For Track 1 accpeted authors, instructions to archive the camera-ready paper are provided at:
+For Track 1 accpeted authors, instructions to archive the camera-ready paper are available at:
 [Submission instructions](https://drive.google.com/file/d/1IVRbiNL5l_WiHhmWCeK2g6cD5ZfqpSkW/view?usp=share_link)
 [Submission site](https://drive.google.com/file/d/17kBZZ2gLQPO3oS5qs9R0_A8fTuWHNGwx/view?usp=share_link)
 The deadline for submission and copyright transfer is **April 14**. Mark the date!
+
+## [04/07/2024]
+* * *
+Decisions for Track 1 are out on OpenReview! Congratulations to all authors of accepted submissions, we are looking forward to seeing and discussing your papers in Seattle! Overall, the acceptance rate was 47%. Additionally, 14% of submissions were rejected from Track 1 but offered acceptance for Track 2 (non-archival).
+
 
 ## [04/01/2024]
 * * *
