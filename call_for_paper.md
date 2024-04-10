@@ -86,7 +86,9 @@ We invite topics related to medical imaging and medical computer vision which in
 
 ## FAQs
 - My paper was accepted for Track 1. Where and when should I submit my camera-ready version?
-  - For Track 1 accepted authors, instructions to archive the camera-ready paper are provided in the following links: ([Submission instructions](https://drive.google.com/file/d/1IVRbiNL5l_WiHhmWCeK2g6cD5ZfqpSkW/view?usp=share_link) and [Submission site](https://drive.google.com/file/d/17kBZZ2gLQPO3oS5qs9R0_A8fTuWHNGwx/view?usp=share_link)). The deadline for submission and copyright transfer is **April 14**. Mark the date! 
+  - For Track 1 accepted authors, instructions to archive the camera-ready paper are provided in the following links: ([Submission instructions](https://drive.google.com/file/d/1IVRbiNL5l_WiHhmWCeK2g6cD5ZfqpSkW/view?usp=share_link) and [Submission site](https://drive.google.com/file/d/17kBZZ2gLQPO3oS5qs9R0_A8fTuWHNGwx/view?usp=share_link)). The deadline for submission and copyright transfer is **April 14**. Mark the date!
+- The camera-ready instructions state that every paper needs at least one author registered at CVPR. Does registration have to be done before the camera-ready deadline on April 14?
+  - No, you can still register after April 14.
 - Does every author have to have an OpenReview account?
   - Our submission policy differs from [CVPR's](https://cvpr.thecvf.com/Conferences/2024/AuthorGuidelines) in that we do **not** require all co-authors to have a OpenReview account.
 - Will accepted papers be published in the CVPR-Workshop proceedings?
