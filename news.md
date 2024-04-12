@@ -4,7 +4,8 @@ title: News
 description: DCA in MI Workshop @ CVPR 2024
 filename: news
 ---
-
+## [04/11/2024]
+We have updated our Q&A section to provide clearer instructions regarding the submission of camera-ready papers for track 1. Please check our [Call for Papers](./call_for_paper.html) page for more information.
 
 ## [04/08/2024]
 * * *

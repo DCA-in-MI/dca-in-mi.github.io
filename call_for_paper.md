@@ -91,6 +91,8 @@ We invite topics related to medical imaging and medical computer vision which in
   - No, you can still register after April 14.
 - Does every author have to have an OpenReview account?
   - Our submission policy differs from [CVPR's](https://cvpr.thecvf.com/Conferences/2024/AuthorGuidelines) in that we do **not** require all co-authors to have a OpenReview account.
+- On the camera-ready paper submission site, what should I enter for the paper ID field?
+  - The format of paper ID should be "DCAMI_[Your paper ID]". For example, "DCAMI_24". For our intents and purposes, the workshop ID equates the workshop acronym. We apologize for the ambiguous instructions on the submission cite, and will be continue working with the CVPR chairs for clarification.
 - Will accepted papers be published in the CVPR-Workshop proceedings?
   - Only papers accepted to Track 1 will be published in the CVPR-Workshop proceedings.
 - Will rejected submissions from Track 1 (archival, proceedings) still be considered for acceptance at Track 2 (non-archival, preliminary work)?
