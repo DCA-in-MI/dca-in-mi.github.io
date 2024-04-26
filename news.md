@@ -6,9 +6,11 @@ filename: news
 ---
 
 ## [04/26/2024]
+* * *
 [Camera-ready instructions](call_for_paper.html#camera-ready-instructions) for Track 2 & 3 and [poster information](call_for_paper.html#poster-information) for all tracks are now available.
 
 ## [04/11/2024]
+* * *
 We have updated our Q&A section to provide clearer instructions regarding the submission of camera-ready papers for track 1. Please check our [Call for Papers](./call_for_paper.html) page for more information.
 
 ## [04/08/2024]
