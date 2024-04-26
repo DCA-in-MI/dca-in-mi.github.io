@@ -21,7 +21,7 @@ filename: important_dates
 
 **Notification to authors:** April 28, 2024
 
-**Camera-ready deadline:** May 5, 2024
+**Camera-ready deadline:** <s>May 5, 2024</s> May 12, 2024
 
 ---
 
