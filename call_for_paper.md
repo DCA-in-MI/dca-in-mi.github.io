@@ -40,6 +40,19 @@ For paper submission questions, take a look at our [FAQs](#faqs) or email **dca.
 
 See [Important Dates](./important_dates) for submission deadlines.
 
+## Camera-ready Instructions
+
+## Poster Information
+
+- **Every accepted paper will be presented as a poster**. Additionally, we will soon announce selected papers for oral presentations.
+- The maximum poster size is 4x8 and there is an onsite printing option (not mandatory). More information [here](https://cvprworkshop.myprintdesk.net/DSF/SmartStore.aspx#!/Storefront).
+- DO NOT SUBMIT A WORKSHOP PAPER TO THE MAIN CONFERENCE PRINT SITE - IT WILL BE REJECTED.
+- Any questions can be directed to Nicole (nicole@ctocevents.com) before submission.
+- If you have a question, need to re-submit a file or need a receipt, please contact the provider directly atdsf.team@e-arc.com
+- All posters will be in the Arch Building Exhibit Hall and labeled per 
+workshop.
+- Poster room: there will be tables, no power outlets.
+
 ## Awards
 
 - Best Paper (800€)
