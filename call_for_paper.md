@@ -111,7 +111,7 @@ We invite topics related to medical imaging and medical computer vision which in
 ## FAQs
 - My paper was accepted at DCAMI, which registration type for CVPR should I choose?
   - If your paper was accepted to **Track 1 (archival)**, then an **"AUTHOR/FULL PASSPORT REGISTRATION" is required** for at least one of the authors of your paper, in order for it to appear in the CVPR-Workshop proceedings. The "ONE DAY WORKSHOP/TUTORIAL PASS" is **not** sufficient. For more infos see [CVPR's pricing](https://cvpr.thecvf.com/Conferences/2024/Pricing2).
-  - If your paper was accepted to **Track 2 or 3 (non-archival)**, then any registration which covers the workshops is sufficient ("full" or "workshop only"). [CVPR's rule](https://cvpr.thecvf.com/Conferences/2024/Pricing2) that workshop paper require a full registration only holds for _archival_ workhsop papers.
+  - If your paper was accepted to **Track 2 or 3 (non-archival)**, then any registration which covers the workshops is sufficient ("full" or "workshop only"). [CVPR's rule](https://cvpr.thecvf.com/Conferences/2024/Pricing2) that workshop paper require a full registration only holds for _archival_ workshop papers.
 - Where can I get an invitation letter (e.g. for visa applications)?
   - After registering to CVPR, you can simply download your invitation letter [here](https://cvpr.thecvf.com/accounts/login?next=/InvitationLetter).
 - My paper was accepted for Track 1. Where and when should I submit my camera-ready version?
