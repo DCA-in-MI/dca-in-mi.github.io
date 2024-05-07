@@ -7,7 +7,7 @@ filename: news
 
 ## [05/06/2024]
 * * *
-[Workshop Program Schedule](program.html) and [Panelists' Bios](program.html) are now available on our website.
+[Workshop Program Schedule](program.html) and [Panelists' Bios](program.html#panelists) are now available on our website.
 
 
 ## [04/26/2024]
