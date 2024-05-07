@@ -5,6 +5,11 @@ description: DCA in MI Workshop @ CVPR 2024
 filename: news
 ---
 
+## [05/06/2024]
+* * *
+[Workshop Program Schedule](program.html) and [Panelists' Bios](program.html) are now available on our website.
+
+
 ## [04/26/2024]
 * * *
 [Camera-ready instructions](call_for_paper.html#camera-ready-instructions) for Track 2 & 3 and [poster information](call_for_paper.html#poster-information) for all tracks are now available.
