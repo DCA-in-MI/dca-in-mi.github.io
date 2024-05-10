@@ -44,28 +44,50 @@ filename: program
 **Interim Break**
 
 **Paper Oral Presentations**
-
 4:00 PM – 4:50 PM
 
 **Paper Award Announcement**
-
 4:50 PM – 5:00 PM
 
 **Ending Notes**
-
 5:00 PM – 5:05 PM
 
 **Poster Presentations** 
-
 5:00 PM – 6:00 PM
 
 **Poster Award Announcement**
-
 5:45 PM – 6:00 PM
 
 <em>**Schedule details may subject to change**<em>
 
+## Keynote Speakers
+
+<p>
+    <img class="logo" src="assets/img/James_Zou_Profile.jpg" alt="James Zou.js logo" width="200" height="200" />
+    <h3>James Zou</h3>
+</p>
+<p>
+    James Zou is an associate professor of Biomedical Data Science, CS and EE at Stanford University. He is also the faculty director of Stanford AI4Health. He works on both improving the foundations of ML–-by making models more trustworthy and reliable–-as well as in-depth scientific and clinical applications. Many of his innovations are widely used in tech and biotech industries.  He has received a Sloan Fellowship, an NSF CAREER Award, two Chan-Zuckerberg Investigator Awards, a Top Ten Clinical Achievement Award, several best paper awards, and faculty awards from Google, Amazon, Tencent and Adobe. His research has also been profiled in popular press including the NY Times, WSJ, and WIRED.
+</p>
+
+
+<p>
+    <img class="logo" src="assets/img/Anthony_Jarc_Profile.jpg" alt="Anthony Jarc.js logo" width="200" height="200" />
+    <h3>Anthony Jarc</h3>
+</p>
+<p>
+    Anthony (Tony) Jarc is Senior Director Digital Solutions & Machine Learning at Intuitive, where he leads a diverse team building digital tools that leverage surgical computing and AI to improve surgeon performance and patient outcomes. He has also helped establish the emerging field of surgical data science by empowering and collaborating with surgeon scientists to leverage objective metrics from the da Vinci surgical platform. Recently, Tony helped launch Case Insights – an ML-enabled digital application to enable surgeons to discover novel insights that will help them perform better surgery. Anthony joined Intuitive Surgical in 2011 as a Surgical Data Scientist. He received a BS in Mechanical Engineering from Cornell University and a PhD in Biomedical Engineering from Northwestern University in 2011.
+</p>
+
+
 ## Panelists
+<p>
+    <img class="logo" src="assets/img/Xiaoxiao_Li_Profile.jpg" alt="Xiaoxiao Li.js logo" width="200" height="200" />
+    <h3>Xiaoxiao Li</h3>
+</p>
+<p>
+    Xiaoxiao Li is currently an assistant professor at the University of British Columbia, a faculty member at Vector Institute, and an adjunct assistant professor at the School of Medicine at Yale University. Xiaoxiao’s research interests lie at the intersection of AI and healthcare, developing next-generation responsible AI algorithms and systems and publishing at machine learning conferences (ICML, ICLR, NeurIPS, CVPR, ECCV, etc.), as well as biomedical conferences and journals (MICCAI, IPMI, Medical Image Analysis, IEEE Trans on Medical Imaging, Nature Methods). Xiaoxiao’s research has been recognized in several best paper awards, Meta Research Awards, and Canada CIFAR AI Chair Awards.
+</p>
 
 
 <p>
