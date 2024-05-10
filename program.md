@@ -21,18 +21,15 @@ filename: program
  
 
 **Opening Remarks**
-
 1:00 PM – 1:15 PM
 
 **Keynotes**
-
 1:15 PM – 2:30 PM
 
 - James Zou (Stanford University) 
 - Anthony Jarc (Intuitive Surgical)
 
 **Panel Discussion**
-
 2:30 PM – 3:30 PM
 
 - Tim Rädsch (German Cancer Research Center and Helmholtz Imaging)  
@@ -62,6 +59,7 @@ filename: program
 
 ## Keynote Speakers
 
+
 <p>
     <img class="logo" src="assets/img/James_Zou_Profile.jpg" alt="James Zou.js logo" width="200" height="200" />
     <h3>James Zou</h3>
@@ -81,13 +79,6 @@ filename: program
 
 
 ## Panelists
-<p>
-    <img class="logo" src="assets/img/Xiaoxiao_Li_Profile.jpg" alt="Xiaoxiao Li.js logo" width="200" height="200" />
-    <h3>Xiaoxiao Li</h3>
-</p>
-<p>
-    Xiaoxiao Li is currently an assistant professor at the University of British Columbia, a faculty member at Vector Institute, and an adjunct assistant professor at the School of Medicine at Yale University. Xiaoxiao’s research interests lie at the intersection of AI and healthcare, developing next-generation responsible AI algorithms and systems and publishing at machine learning conferences (ICML, ICLR, NeurIPS, CVPR, ECCV, etc.), as well as biomedical conferences and journals (MICCAI, IPMI, Medical Image Analysis, IEEE Trans on Medical Imaging, Nature Methods). Xiaoxiao’s research has been recognized in several best paper awards, Meta Research Awards, and Canada CIFAR AI Chair Awards.
-</p>
 
 
 <p>
