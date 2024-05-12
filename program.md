@@ -15,7 +15,7 @@ filename: program
 
 **Date**: June 17, 2024
 
-**In-personal attendance**: [Location TBD]
+**In-personal attendance**: Summit 347-348
 
 **Virtual attendance**: [Zoom link TBD]
  
