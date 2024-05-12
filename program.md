@@ -13,7 +13,7 @@ filename: program
 
 ## Schedule
 
-**Date**: June 17, 2024
+**Date and Time**: June 17, 2024, 1:00 PM–6:00 PM (Monday)
 
 **In-personal attendance**: Summit 347-348
 
