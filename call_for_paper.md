@@ -46,9 +46,9 @@ See [Important Dates](./important_dates) for submission deadlines.
    - see [submission instructions](https://drive.google.com/file/d/1IVRbiNL5l_WiHhmWCeK2g6cD5ZfqpSkW/view?usp=share_link) and [submission site](https://drive.google.com/file/d/17kBZZ2gLQPO3oS5qs9R0_A8fTuWHNGwx/view?usp=share_link)
 - **Track 2 (non-archival)**
    - The workshop website will show a list of accepted papers and we provide an **option** for paper PDFs to be **hosted publicly available** on the website as well.
-   - Please let us know if you wish for your paper PDF to be hosted on the website by replying to the OpenReview decision email until **May 12**.
+   - Please let us know if you wish for your paper PDF to be hosted on the website by **replying to the OpenReview decision email until May 12**.
    - If you wish for the PDF to be hosted on the website, send us the camera-ready version of your paper until **May 12**. Simply replace `\usepackage[review]{cvpr}` with `\usepackage{cvpr}` in `main.tex` of the CVPR template.
-   - If you do not wish for the PDF to be hosted on the website, no further action is required.
+   - If you do not wish for the PDF to be hosted on the website, you do not have to submit a camera-ready version.
 - **Track 3 (non-archival, previously published)**
    - The workshop website will show a list of accepted papers, including a link to the publication.
    - **No actions** are required from your side.
