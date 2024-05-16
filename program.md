@@ -34,7 +34,7 @@ filename: program
 
 - Tim Rädsch (German Cancer Research Center and Helmholtz Imaging)  
 - Xiaoxiao Li (University of British Columbia) 
-- Geoffry Luke (Dartmouth College) 
+- Geoffrey Luke (Dartmouth College) 
 - Darvin Yi (University of Illinois at Chicago)
 - Cecilia Lee (University of Washington)
 
