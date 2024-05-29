@@ -9,23 +9,23 @@ filename: news
 
 | Title and Authors | Proceedings ||
 | ----- | ----- | ----- |
-| **Strategies to Improve Real-World Applicability of Laparoscopic Anatomy Segmentation Models** <br>  | _to appear_ | **oral** |
-| **nnMobileNet: Rethinking CNN for Retinopathy Research** <br>  | _to appear_ |
-| **Distribution-Aware Multi-Label FixMatch for Semi-Supervised Learning on CheXpert** <br>  | _to appear_ |
-| **Repurposing the Image Generative Potential: Exploiting GANs to Grade Diabetic Retinopathy** <br>  | _to appear_ |
-| **Repeat and Concatenate: 2D to 3D Image Translation with 3D to 3D Generative Modeling** <br>  | _to appear_ | **oral** |
-| **ControlPolypNet: Towards Controlled Colon Polyp Synthesis for Improved Polyp Segmentation** <br>  | _to appear_ |
-| **Generation of Structurally Realistic Retinal Fundus Images with Diffusion Models** <br>  | _to appear_ |
-| **A Comparative Analysis of Implicit Augmentation Techniques for Breast Cancer Diagnosis Using Multiple Views** <br>  | _to appear_ | **oral** |
-| **Creating a Digital Twin of Spinal Surgery: A Proof of Concept** <br>  | _to appear_ |
-| **Codebook VQ-VAE Approach for Prostate Cancer Diagnosis using Multiparametric MRI** <br>  | _to appear_ |
-| **Advancing Brain Tumor Analysis: Curating a High-Quality MRI Dataset for Deep Learning-Based Molecular Marker Profiling** <br>  | _to appear_ | **oral** |
-| **Privacy-Preserving Collaboration for Multi-Organ Segmentation via Federated Learning from Sites with Partial Labels** <br>  | _to appear_ |
-| **GSAM+Cutie: Text-Promptable Tool Mask Annotation for Endoscopic Video** <br>  | _to appear_ | **oral** |
-| **MMIST-ccRCC: A Real World Medical Dataset for the Development of Multi-Modal Systems** <br>  | _to appear_ |
-| **Hairy Ground Truth Enhancement for Semantic Segmentation** <br>  | _to appear_ |
-| **Beyond respiratory models: a physics-enhanced synthetic data generation method for 2D-3D deformable registration** <br>  | _to appear_ |
-| **UltraAugment: Fan-shape and Artifact-based Data Augmentation for 2D Ultrasound Images** <br>  | _to appear_ |
+| **Strategies to Improve Real-World Applicability of Laparoscopic Anatomy Segmentation Models** <br> Fiona R. Kolbinger, Jiangpeng He, Jinge Ma, Fengqing Zhu  | _to appear_ | **oral** |
+| **nnMobileNet: Rethinking CNN for Retinopathy Research** <br> Wenhui Zhu, Peijie Qiu, Xiwen Chen, xin li, Natasha Lepore, Oana Dumitrascu, Yalin Wang  | _to appear_ |
+| **Distribution-Aware Multi-Label FixMatch for Semi-Supervised Learning on CheXpert** <br> Sontje Ihler, Felix Kuhnke, Timo Kuhlgatz, Thomas Seel  | _to appear_ |
+| **Repurposing the Image Generative Potential: Exploiting GANs to Grade Diabetic Retinopathy** <br> Isabella Poles, Eleonora D'Arnese, Luca Giuseppe Cellamare, Marco Santambrogio, Darvin Yi  | _to appear_ |
+| **Repeat and Concatenate: 2D to 3D Image Translation with 3D to 3D Generative Modeling** <br> Abril Corona-Figueroa, Hubert P. H. Shum, Chris G. Willcocks  | _to appear_ | **oral** |
+| **ControlPolypNet: Towards Controlled Colon Polyp Synthesis for Improved Polyp Segmentation** <br> Vanshali Sharma, Abhishek Kumar, Debesh Jha, M.K. Bhuyan, Pradip Das, Ulas Bagci  | _to appear_ |
+| **Generation of Structurally Realistic Retinal Fundus Images with Diffusion Models** <br> Sojung Go, younghoon ji, Sang Jun Park, Soochahn Lee   | _to appear_ |
+| **A Comparative Analysis of Implicit Augmentation Techniques for Breast Cancer Diagnosis Using Multiple Views** <br> Yumnah Hasan, Talhat Khan, Darian Reyes Fernández de Bulnes, Juan Albarracín, Conor Ryan  | _to appear_ | **oral** |
+| **Creating a Digital Twin of Spinal Surgery: A Proof of Concept** <br> Jonas Hein, Frederic Giraud, Lilian Calvet, Alexander Schwarz, Nicola Alessandro Cavalcanti, Sergey Prokudin, Mazda Farshad, Siyu Tang, Marc Pollefeys, Fabio Carrillo, Philipp Fürnstahl  | _to appear_ |
+| **Codebook VQ-VAE Approach for Prostate Cancer Diagnosis using Multiparametric MRI** <br> Ekaterina Redekop, Mara Pleasure, Zichen Wang, Karthik V Sarma, Adam Kinnaird, William Speier, Corey W. Arnold  | _to appear_ |
+| **Advancing Brain Tumor Analysis: Curating a High-Quality MRI Dataset for Deep Learning-Based Molecular Marker Profiling** <br> Divya D Reddy, Niloufar Saadat, James Holcomb, Ben Wagner, Nghi Truong, Jason Bowerman, Kimmo Hatanpaa, Marco Pinho, Toral Patel, Ananth Madhuranthakam, Chandan Ganesh, Joseph Maldjian  | _to appear_ | **oral** |
+| **Privacy-Preserving Collaboration for Multi-Organ Segmentation via Federated Learning from Sites with Partial Labels** <br> Adway Kanhere, Pranav Kulkarni, Paul Yi, Vishwa Sanjay Parekh  | _to appear_ |
+| **GSAM+Cutie: Text-Promptable Tool Mask Annotation for Endoscopic Video** <br> Roger David Soberanis-Mukul, Jiahuan Cheng, Jan Emily Mangulabnan, S. Swaroop Vedula, Masaru Ishii, Gregory D. Hager, Russ Taylor, Mathias Unberath  | _to appear_ | **oral** |
+| **MMIST-ccRCC: A Real World Medical Dataset for the Development of Multi-Modal Systems** <br> Tiago Mota, Maria Rita Fonseca Verdelho, Diogo José Pereira Araújo, Alceu Bissoto, Carlos Santiago, Catarina Barata  | _to appear_ |
+| **Hairy Ground Truth Enhancement for Semantic Segmentation** <br> Sophie Fischer, Irina Voiculescu  | _to appear_ |
+| **Beyond respiratory models: a physics-enhanced synthetic data generation method for 2D-3D deformable registration** <br> François Lecomte, Pablo Alvarez, Stephane Cotin, Jean-louis Dillenseger  | _to appear_ |
+| **UltraAugment: Fan-shape and Artifact-based Data Augmentation for 2D Ultrasound Images** <br> Florian Ramakers, Tom Vercauteren, Jan Deprest, Helena Williams  | _to appear_ |
 
 ## Track 2
 
