@@ -5,6 +5,10 @@ description: DCA in MI Workshop @ CVPR 2024
 filename: news
 ---
 
+## [05/29/2024]
+* * *
+[List of accepted papers and oral selections](papers.html) are now available on our website.
+
 ## [05/06/2024]
 * * *
 [Workshop Program Schedule](program.html) and [Panelists' Bios](program.html#panelists) are now available on our website.

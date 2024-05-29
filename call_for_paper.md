@@ -7,7 +7,7 @@ filename: call_for_paper
 
 ## Call for Papers
 
-We invite submissions on papers related to Data Curation and Augmentation in Medical Imaging (see [Scope](#scope)). All accepted papers will be presented in the poster session during the workshop. Selected papers will be given the opportunity of an oral presentation.
+We invite submissions on papers related to Data Curation and Augmentation in Medical Imaging (see [Scope](#scope)). All accepted papers will be presented in the poster session during the workshop (see [poster info](call_for_paper.html#poster-information) and [program](program.html)). Some papers have additionally been selected for [oral presentations](papers.html).
 
 Papers should be submitted to one of three tracks:
 
@@ -55,7 +55,7 @@ See [Important Dates](./important_dates) for submission deadlines.
 
 ## Poster Information
 
-- **Every accepted paper will be presented as a poster**. Additionally, we will soon announce selected papers for oral presentations.
+- **Every accepted paper will be presented as a poster**. Additionally, some papers were selected for [oral presentations](papers.html).
 - The maximum poster size is 4x8 and there is an onsite printing option (not mandatory). More information [here](https://cvprworkshop.myprintdesk.net/DSF/SmartStore.aspx#!/Storefront).
 - DO NOT SUBMIT A WORKSHOP PAPER TO THE MAIN CONFERENCE PRINT SITE - IT WILL BE REJECTED.
 - Any questions can be directed to Nicole (nicole@ctocevents.com) before submission.
