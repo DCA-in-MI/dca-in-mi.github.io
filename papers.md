@@ -31,16 +31,16 @@ filename: news
 
 | Title and Authors | Paper Link ||
 | ----- | ----- | ----- |
-| **Utilizing Synthetic Data for Medical Vision-Language Pre-training: Bypassing the Need for Real Images** <br> Che Liu, Anand Shah, Wenjia Bai, Rossella Arcucci  | _to appear_ |
+| **Utilizing Synthetic Data for Medical Vision-Language Pre-training: Bypassing the Need for Real Images** <br> Che Liu, Anand Shah, Wenjia Bai, Rossella Arcucci  | [link](https://drive.google.com/file/d/1dcjf4i_2JhNKC_ZBZ9Hassy2F7sRmEWc/view?usp=drive_link) |
 | **Detecting multiple stenoses using coronary angiographies and deep learning** <br> Christian Eschen, Karina Banasik, Anders Dahl, Piotr Jaroslaw Chmura, Peter Bruun-Rasmussen, Frants Pedersen, Lars Køber, Thomas Engstrøm, Alex Hørby Christensen, Henning Bundgaard, Soren Brunak  | - |
 | **Scalp Surface Estimation and Head Registration Using Sparse Sampling and 3D Statistical Models** <br> Oded Schlesinger, Raj Kundu, Dmitry Isaev, Jessica Choi, Stefan Goetz, Dennis A. Turner, Guillermo Sapiro, Angel V. Peterchev, Juan Matias Di Martino | - |
-| **Towards Establishing Dense Correspondence on Multiview Coronary Angiography: From Point-to-Point to Curve-to-Curve Query Matching** <br> Yifan Wu, Rohit Jena, Mehmet Akif Gulsun, Vivek Kumar Singh, Puneet Sharma, James Gee  | _to appear_ | **oral** |
+| **Towards Establishing Dense Correspondence on Multiview Coronary Angiography: From Point-to-Point to Curve-to-Curve Query Matching** <br> Yifan Wu, Rohit Jena, Mehmet Akif Gulsun, Vivek Kumar Singh, Puneet Sharma, James Gee  | [link](https://drive.google.com/file/d/12FWrHfqNe4i0X4dVLqxPfwH_cB8ixL2_/view?usp=drive_link) | **oral** |
 | **Adapting Self-Supervised Learning for Computational Pathology** <br> Eric Zimmermann, Neil Tenenholtz, James Brian Hall, George Shaikovski, Michal Zelechowski, Adam Casson, Fausto Milletari, Julian Viret, Eugene Vorontsov, Siqi Liu, Kristen A Severson  | [link](https://arxiv.org/abs/2405.01688) |
-| **Discovering mechanisms underlying AI prediction of protected attributes via data auditing** <br> Soham Gadgil, Alex DeGrave, Roxana Daneshjou, Su-In Lee | _to appear_ | **oral** |
-| **ScribblePrompt: Fast and Flexible Interactive Segmentation for Any Biomedical Image** <br> Hallee E. Wong, Marianne Rakic, John Guttag, Adrian V Dalca  | _to appear_ | **oral** |
-| **From Majority to Minority: Enhancing Underrepresented Group via Diffusion-based Augmentation in Skin Lesion Analysis** <br> Janet Wang, Yunsung Chung, Zhengming Ding, Jihun Hamm  | _to appear_ |
+| **Discovering mechanisms underlying AI prediction of protected attributes via data auditing** <br> Soham Gadgil, Alex DeGrave, Roxana Daneshjou, Su-In Lee | [link](https://drive.google.com/file/d/1T1_d9p2JZrOC4HgPKWybkcoB5LVqMYoF/view?usp=drive_link) | **oral** |
+| **ScribblePrompt: Fast and Flexible Interactive Segmentation for Any Biomedical Image** <br> Hallee E. Wong, Marianne Rakic, John Guttag, Adrian V Dalca  | [link](https://drive.google.com/file/d/1JRk1eh7lijhqPNrPjltu7iTPYwrlAqpu/view?usp=drive_link) | **oral** |
+| **From Majority to Minority: Enhancing Underrepresented Group via Diffusion-based Augmentation in Skin Lesion Analysis** <br> Janet Wang, Yunsung Chung, Zhengming Ding, Jihun Hamm  | [link](https://drive.google.com/file/d/1LMXDqMkcyl6ix3nHs5bUjPf7SkH6lk41/view?usp=drive_link) |
 | **ControlEchoSynth: Boosting Ejection Fraction Estimation Models via Controlled Video Diffusion** <br> Nima Kondori, Hanwen Liang, Hooman Vaseli, Bingyu Xie, Christina Luong, Purang Abolmaesumi, Teresa Tsang, Renjie Liao  | - |
-| **Alljoined - A dataset for EEG-to-Image decoding** <br> Jonathan Xu, Bruno Aristimunha, Max Emanuel Feucht, Emma Qian, Charles Liu, Tazik Shahjahan, Martyna Spyra, Steven Zhang, Nicholas Roger Hewitt Short, Jioh Kim, Paula Perdomo, Ricky Renfeng Mao, Yashvir Sabharwal, Michael Kojo Ahedor, Moaz Shoura, Adrian Nestor | _to appear_ |
+| **Alljoined - A dataset for EEG-to-Image decoding** <br> Jonathan Xu, Bruno Aristimunha, Max Emanuel Feucht, Emma Qian, Charles Liu, Tazik Shahjahan, Martyna Spyra, Steven Zhang, Nicholas Roger Hewitt Short, Jioh Kim, Paula Perdomo, Ricky Renfeng Mao, Yashvir Sabharwal, Michael Kojo Ahedor, Moaz Shoura, Adrian Nestor | [link](https://drive.google.com/file/d/1_CftH2_OkIF3l7wsef5GfzsyvnecN57s/view?usp=drive_link) |
 | **DIDA: Diffusion-based Inpainting Data Augmentation for Multi-class Glomerular Segmentation** <br> Yisak Kim, Seung Yeon Cho, Sehoon Park, Hajeong Lee, Kyung Chul Moon, Young-Gon Kim  | - |
 
 ## Track 3
