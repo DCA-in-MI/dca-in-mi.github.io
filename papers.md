@@ -7,41 +7,41 @@ filename: news
 
 ## Track 1
 
-| Title | Authors | Proceedings ||
-| ----- | ----- | ----- | ----- |
-| Strategies to Improve Real-World Applicability of Laparoscopic Anatomy Segmentation Models |  | _to appear_ | **oral** |
-| nnMobileNet: Rethinking CNN for Retinopathy Research |  | _to appear_ |
-| Distribution-Aware Multi-Label FixMatch for Semi-Supervised Learning on CheXpert. |  | _to appear_ |
-| Repurposing the Image Generative Potential: Exploiting GANs to Grade Diabetic Retinopathy |  | _to appear_ |
-| Repeat and Concatenate: 2D to 3D Image Translation with 3D to 3D Generative Modeling |  | _to appear_ | **oral** |
-| ControlPolypNet: Towards Controlled Colon Polyp Synthesis for Improved Polyp Segmentation |  | _to appear_ |
-| Generation of Structurally Realistic Retinal Fundus Images with Diffusion Models |  | _to appear_ |
-| A Comparative Analysis of Implicit Augmentation Techniques for Breast Cancer Diagnosis Using Multiple Views |  | _to appear_ | **oral** |
-| Creating a Digital Twin of Spinal Surgery: A Proof of Concept |  | _to appear_ |
-| Codebook VQ-VAE Approach for Prostate Cancer Diagnosis using Multiparametric MRI |  | _to appear_ |
-| Advancing Brain Tumor Analysis: Curating a High-Quality MRI Dataset for Deep Learning-Based Molecular Marker Profiling |  | _to appear_ | **oral** |
-| Privacy-Preserving Collaboration for Multi-Organ Segmentation via Federated Learning from Sites with Partial Labels |  | _to appear_ |
-| GSAM+Cutie: Text-Promptable Tool Mask Annotation for Endoscopic Video |  | _to appear_ | **oral** |
-| MMIST-ccRCC: A Real World Medical Dataset for the Development of Multi-Modal Systems |  | _to appear_ |
-| Hairy Ground Truth Enhancement for Semantic Segmentation |  | _to appear_ |
-| Beyond respiratory models: a physics-enhanced synthetic data generation method for 2D-3D deformable registration |  | _to appear_ |
-| UltraAugment: Fan-shape and Artifact-based Data Augmentation for 2D Ultrasound Images |  | _to appear_ |
+| Title and Authors | Proceedings ||
+| ----- | ----- | ----- |
+| **Strategies to Improve Real-World Applicability of Laparoscopic Anatomy Segmentation Models** <br>  | _to appear_ | **oral** |
+| **nnMobileNet: Rethinking CNN for Retinopathy Research** <br>  | _to appear_ |
+| **Distribution-Aware Multi-Label FixMatch for Semi-Supervised Learning on CheXpert** <br>  | _to appear_ |
+| **Repurposing the Image Generative Potential: Exploiting GANs to Grade Diabetic Retinopathy** <br>  | _to appear_ |
+| **Repeat and Concatenate: 2D to 3D Image Translation with 3D to 3D Generative Modeling** <br>  | _to appear_ | **oral** |
+| **ControlPolypNet: Towards Controlled Colon Polyp Synthesis for Improved Polyp Segmentation** <br>  | _to appear_ |
+| **Generation of Structurally Realistic Retinal Fundus Images with Diffusion Models** <br>  | _to appear_ |
+| **A Comparative Analysis of Implicit Augmentation Techniques for Breast Cancer Diagnosis Using Multiple Views** <br>  | _to appear_ | **oral** |
+| **Creating a Digital Twin of Spinal Surgery: A Proof of Concept** <br>  | _to appear_ |
+| **Codebook VQ-VAE Approach for Prostate Cancer Diagnosis using Multiparametric MRI** <br>  | _to appear_ |
+| **Advancing Brain Tumor Analysis: Curating a High-Quality MRI Dataset for Deep Learning-Based Molecular Marker Profiling** <br>  | _to appear_ | **oral** |
+| **Privacy-Preserving Collaboration for Multi-Organ Segmentation via Federated Learning from Sites with Partial Labels** <br>  | _to appear_ |
+| **GSAM+Cutie: Text-Promptable Tool Mask Annotation for Endoscopic Video** <br>  | _to appear_ | **oral** |
+| **MMIST-ccRCC: A Real World Medical Dataset for the Development of Multi-Modal Systems** <br>  | _to appear_ |
+| **Hairy Ground Truth Enhancement for Semantic Segmentation** <br>  | _to appear_ |
+| **Beyond respiratory models: a physics-enhanced synthetic data generation method for 2D-3D deformable registration** <br>  | _to appear_ |
+| **UltraAugment: Fan-shape and Artifact-based Data Augmentation for 2D Ultrasound Images** <br>  | _to appear_ |
 
 ## Track 2
 
-| Title | Authors | Paper Link ||
-| ----- | ----- | ----- | ----- |
-| Utilizing Synthetic Data for Medical Vision-Language Pre-training: Bypassing the Need for Real Images |  |  |
-| Detecting multiple stenoses using coronary angiographies and deep learning |  |  |
-| Scalp Surface Estimation and Head Registration Using Sparse Sampling and 3D Statistical Models |  |  |
-| Towards Establishing Dense Correspondence on Multiview Coronary Angiography: From Point-to-Point to Curve-to-Curve Query Matching |  |  | **oral** |
-| Adapting Self-Supervised Learning for Computational Pathology |  |  |
-| Discovering mechanisms underlying AI prediction of protected attributes via data auditing |  |  | **oral** |
-| ScribblePrompt: Fast and Flexible Interactive Segmentation for Any Biomedical Image |  |  | **oral** |
-| From Majority to Minority: Enhancing Underrepresented Group via Diffusion-based Augmentation in Skin Lesion Analysis |  |  |
-| ControlEchoSynth: Boosting Ejection Fraction Estimation Models via Controlled Video Diffusion |  |  |
-| Alljoined - A dataset for EEG-to-Image decoding |  |  |
-| DIDA: Diffusion-based Inpainting Data Augmentation for Multi-class Glomerular Segmentation |  |  |
+| Title and Authors | Paper Link ||
+| ----- | ----- | ----- |
+| **Utilizing Synthetic Data for Medical Vision-Language Pre-training: Bypassing the Need for Real Images** <br> Che Liu, Anand Shah, Wenjia Bai, Rossella Arcucci  | _to appear_ |
+| **Detecting multiple stenoses using coronary angiographies and deep learning** <br> Christian Eschen, Karina Banasik, Anders Dahl, Piotr Jaroslaw Chmura, Peter Bruun-Rasmussen, Frants Pedersen, Lars Køber, Thomas Engstrøm, Alex Hørby Christensen, Henning Bundgaard, Soren Brunak  | - |
+| **Scalp Surface Estimation and Head Registration Using Sparse Sampling and 3D Statistical Models** <br> Oded Schlesinger, Raj Kundu, Dmitry Isaev, Jessica Choi, Stefan Goetz, Dennis A. Turner, Guillermo Sapiro, Angel V. Peterchev, Juan Matias Di Martino | - |
+| **Towards Establishing Dense Correspondence on Multiview Coronary Angiography: From Point-to-Point to Curve-to-Curve Query Matching** <br> Yifan Wu, Rohit Jena, Mehmet Akif Gulsun, Vivek Kumar Singh, Puneet Sharma, James Gee  | _to appear_ | **oral** |
+| **Adapting Self-Supervised Learning for Computational Pathology** <br> Eric Zimmermann, Neil Tenenholtz, James Brian Hall, George Shaikovski, Michal Zelechowski, Adam Casson, Fausto Milletari, Julian Viret, Eugene Vorontsov, Siqi Liu, Kristen A Severson  | [link](https://arxiv.org/abs/2405.01688) |
+| **Discovering mechanisms underlying AI prediction of protected attributes via data auditing** <br> Soham Gadgil, Alex DeGrave, Roxana Daneshjou, Su-In Lee | _to appear_ | **oral** |
+| **ScribblePrompt: Fast and Flexible Interactive Segmentation for Any Biomedical Image** <br> Hallee E. Wong, Marianne Rakic, John Guttag, Adrian V Dalca  | _to appear_ | **oral** |
+| **From Majority to Minority: Enhancing Underrepresented Group via Diffusion-based Augmentation in Skin Lesion Analysis** <br> Janet Wang, Yunsung Chung, Zhengming Ding, Jihun Hamm  | _to appear_ |
+| **ControlEchoSynth: Boosting Ejection Fraction Estimation Models via Controlled Video Diffusion** <br> Nima Kondori, Hanwen Liang, Hooman Vaseli, Bingyu Xie, Christina Luong, Purang Abolmaesumi, Teresa Tsang, Renjie Liao  | - |
+| **Alljoined - A dataset for EEG-to-Image decoding** <br> Jonathan Xu, Bruno Aristimunha, Max Emanuel Feucht, Emma Qian, Charles Liu, Tazik Shahjahan, Martyna Spyra, Steven Zhang, Nicholas Roger Hewitt Short, Jioh Kim, Paula Perdomo, Ricky Renfeng Mao, Yashvir Sabharwal, Michael Kojo Ahedor, Moaz Shoura, Adrian Nestor | _to appear_ |
+| **DIDA: Diffusion-based Inpainting Data Augmentation for Multi-class Glomerular Segmentation** <br> Yisak Kim, Seung Yeon Cho, Sehoon Park, Hajeong Lee, Kyung Chul Moon, Young-Gon Kim  | - |
 
 ## Track 3
 
