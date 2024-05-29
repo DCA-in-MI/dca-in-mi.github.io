@@ -5,7 +5,7 @@ description: DCA in MI Workshop @ CVPR 2024
 filename: news
 ---
 
-## Track 1
+## Track 1 (archival)
 
 | Title and Authors | Proceedings ||
 | ----- | ----- | ----- |
@@ -27,7 +27,7 @@ filename: news
 | **Beyond respiratory models: a physics-enhanced synthetic data generation method for 2D-3D deformable registration** <br> François Lecomte, Pablo Alvarez, Stephane Cotin, Jean-louis Dillenseger  | _to appear_ |
 | **UltraAugment: Fan-shape and Artifact-based Data Augmentation for 2D Ultrasound Images** <br> Florian Ramakers, Tom Vercauteren, Jan Deprest, Helena Williams  | _to appear_ |
 
-## Track 2
+## Track 2 (non-archival)
 
 | Title and Authors | Paper Link ||
 | ----- | ----- | ----- |
@@ -43,7 +43,7 @@ filename: news
 | **Alljoined - A dataset for EEG-to-Image decoding** <br> Jonathan Xu, Bruno Aristimunha, Max Emanuel Feucht, Emma Qian, Charles Liu, Tazik Shahjahan, Martyna Spyra, Steven Zhang, Nicholas Roger Hewitt Short, Jioh Kim, Paula Perdomo, Ricky Renfeng Mao, Yashvir Sabharwal, Michael Kojo Ahedor, Moaz Shoura, Adrian Nestor | [link](https://drive.google.com/file/d/1_CftH2_OkIF3l7wsef5GfzsyvnecN57s/view?usp=drive_link) |
 | **DIDA: Diffusion-based Inpainting Data Augmentation for Multi-class Glomerular Segmentation** <br> Yisak Kim, Seung Yeon Cho, Sehoon Park, Hajeong Lee, Kyung Chul Moon, Young-Gon Kim  | - |
 
-## Track 3
+## Track 3 (previously published)
 
 | Title and Authors | Publication Link |
 | ----- | ----- |
