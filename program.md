@@ -18,42 +18,18 @@ filename: program
 **In-personal attendance**: Summit 347-348
 
 **Virtual attendance**: [Zoom link TBD]
- 
 
-**Opening Remarks**
-1:00 PM – 1:15 PM
-
-**Keynotes**
-1:15 PM – 2:30 PM
-
-- James Zou (Stanford University) 
-- Anthony Jarc (Intuitive Surgical)
-
-**Panel Discussion**
-2:30 PM – 3:30 PM
-
-- Tim Rädsch (German Cancer Research Center and Helmholtz Imaging)  
-- Xiaoxiao Li (University of British Columbia) 
-- Geoffrey Luke (Dartmouth College) 
-- Darvin Yi (University of Illinois at Chicago)
-- Cecilia Lee (University of Washington)
-
-**Interim Break**
-
-**Paper Oral Presentations**
-4:00 PM – 4:50 PM
-
-**Paper Award Announcement**
-4:50 PM – 5:00 PM
-
-**Ending Notes**
-5:00 PM – 5:05 PM
-
-**Poster Presentations** 
-5:00 PM – 6:00 PM
-
-**Poster Award Announcement**
-5:45 PM – 6:00 PM
+| Time | Program Item |
+| ------ | ------ |
+| 1:00 PM – 1:15 PM | **Opening Remarks** |
+| 1:15 PM – 2:30 PM | **Keynotes** <br> James Zou (Stanford University) <br> Anthony Jarc (Intuitive Surgical) |
+| 2:30 PM – 3:30 PM | **Panel Discussion** <br> Tim Rädsch (German Cancer Research Center and Helmholtz Imaging) <br> Xiaoxiao Li (University of British Columbia) <br> Geoffrey Luke (Dartmouth College) <br> Darvin Yi (University of Illinois at Chicago) <br> Cecilia Lee (University of Washington) |
+| | **Interim Break** |
+| 4:00 PM – 4:50 PM | **Paper Oral Presentations** |
+| 4:50 PM – 5:00 PM | **Paper Award Announcement** |
+| 5:00 PM – 5:05 PM | **Ending Notes** |
+| 5:00 PM – 6:00 PM | **Poster Presentations** |
+| 5:45 PM – 6:00 PM | **Poster Award Announcement** |
 
 <em>**Schedule details may subject to change**<em>
 
