@@ -25,7 +25,7 @@ filename: program
 | 1:15 PM – 2:30 PM | **Keynotes** <br> James Zou (Stanford University) <br> Anthony Jarc (Intuitive Surgical) |
 | 2:30 PM – 3:30 PM | **Panel Discussion** <br> Tim Rädsch (German Cancer Research Center and Helmholtz Imaging) <br> Xiaoxiao Li (University of British Columbia) <br> Geoffrey Luke (Dartmouth College) <br> Darvin Yi (University of Illinois at Chicago) <br> Cecilia Lee (University of Washington) |
 | | **Interim Break** |
-| 4:00 PM – 4:50 PM | **Paper Oral Presentations** |
+| 4:00 PM – 4:50 PM | **Paper Oral Presentations** <br> - Strategies to Improve Real-World Applicability of Laparoscopic Anatomy Segmentation Models <br> - Repeat and Concatenate: 2D to 3D Image Translation with 3D to 3D Generative Modeling <br> - Towards Establishing Dense Correspondence on Multiview Coronary Angiography: From Point-to-Point to Curve-to-Curve Query Matching <br> - Discovering mechanisms underlying AI prediction of protected attributes via data auditing <br> - ScribblePrompt: Fast and Flexible Interactive Segmentation for Any Biomedical Image <br> - A Comparative Analysis of Implicit Augmentation Techniques for Breast Cancer Diagnosis Using Multiple Views <br> - Advancing Brain Tumor Analysis: Curating a High-Quality MRI Dataset for Deep Learning-Based Molecular Marker Profiling <br> - GSAM+Cutie: Text-Promptable Tool Mask Annotation for Endoscopic Video |
 | 4:50 PM – 5:00 PM | **Paper Award Announcement** |
 | 5:00 PM – 5:05 PM | **Ending Notes** |
 | 5:00 PM – 6:00 PM | **Poster Presentations** |
