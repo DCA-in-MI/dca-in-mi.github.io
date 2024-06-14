@@ -15,7 +15,7 @@ filename: program
 
 **Date and Time**: June 17, 2024, 1:00 PM–6:00 PM (Monday)
 
-**In-personal attendance**: Summit 347-348
+**In-person attendance**: Summit 347-348
 
 **Virtual attendance**: [https://cvpr.thecvf.com/virtual/2024/workshop/23665](https://cvpr.thecvf.com/virtual/2024/workshop/23665)
 
