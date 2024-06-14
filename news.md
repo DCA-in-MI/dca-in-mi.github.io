@@ -9,7 +9,7 @@ filename: news
 * * *
 DCAMI@CVPR is now only 3 days away! See you soon!
 - **In-personal attendance**: Summit 347-348
-- **Virtual attendance**: https://cvpr.thecvf.com/virtual/2024/workshop/23665
+- **Virtual attendance**: (https://cvpr.thecvf.com/virtual/2024/workshop/23665)
 
 ## [05/29/2024]
 * * *
