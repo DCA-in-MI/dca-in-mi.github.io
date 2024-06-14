@@ -17,7 +17,7 @@ filename: program
 
 **In-personal attendance**: Summit 347-348
 
-**Virtual attendance**: [Zoom link TBD]
+**Virtual attendance**: https://cvpr.thecvf.com/virtual/2024/workshop/23665
 
 | Time | Program Item |
 | ------ | ------ |
