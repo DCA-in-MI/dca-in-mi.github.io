@@ -5,6 +5,10 @@ description: DCA in MI Workshop @ CVPR 2024
 filename: news
 ---
 
+## [06/22/2024]
+* * *
+Awards for DCAMI@CVPR is announced on our website! We would like to thanks all the speakers, authors, presenters and attendees for making this event such a success!
+
 ## [06/14/2024]
 * * *
 DCAMI@CVPR is now only 3 days away! See you soon!
